@@ -92,7 +92,7 @@ This evolution demonstrates that local entropy gradients can self-organize into 
 
 The entropy map visualizes the distribution of local entanglement across the lattice. High-entropy regions appear as smooth gradients, while low-entropy zones reflect equilibrium or alignment.
 
-![Figure 2: Entropy Map](Figures/Figure_2.PNG)
+![Figure 2: Entropy Map](Figures/Figure _ 2.PNG)
 (Figures/Figure_2.md)
 
 Interpretation:
