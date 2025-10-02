@@ -28,6 +28,7 @@ This animation illustrates how spacetime curvature emerges from entanglement ent
 
 > “Spacetime is not built from particles—it’s woven from entanglement.”
 
+📊 [Simulation Details](SIMULATION.md)
 
 # Holographic Entropic Spacetime (HES) Benchmark
 
