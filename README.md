@@ -19,7 +19,7 @@ Click below to open and run the notebook instantly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Benchmark.ipynb)
 
-> Replace `YOUR_USERNAME` with your actual GitHub username in the link above.
+
 
 ## 📁 Files
 
