@@ -15,6 +15,19 @@ The simulation is designed for reproducibility, exploration, and outreach. It of
 
 Run the notebook in Google Colab, tweak parameters, and visualize the birth of spacetime from entropy.
 
+## 🌀 Visual Explainer: How Entropy Bends Space
+
+![How Entropy Bends Space](hes_explainer.png)
+
+This animation illustrates how spacetime curvature emerges from entanglement entropy in the HES framework:
+
+1. **Microstate Lattice**: Random quantum states evolve toward equilibrium.
+2. **Entropy Map**: Entanglement structure forms smooth gradients.
+3. **Curvature Map**: Geometry bends in response to entropy.
+4. **Time Series**: Entropy stabilizes while global energy oscillates.
+
+> “Spacetime is not built from particles—it’s woven from entanglement.”
+
 
 # Holographic Entropic Spacetime (HES) Benchmark
 
