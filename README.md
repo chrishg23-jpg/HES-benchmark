@@ -1,6 +1,21 @@
 # HES-benchmark
 Simulation of emergent spacetime curvature from entanglement entropy using the HES framework
 
+## 🧬 Abstract
+
+This benchmark simulation demonstrates how spacetime curvature can emerge from entanglement entropy in a discrete lattice system. Built on the Holographic Entropic Spacetime (HES) framework, the model evolves a 2D grid of microstates under local entropic interactions and global feedback dynamics. 
+
+Key features include:
+- Entropy gradients generating curvature via Laplacian analysis
+- Global damping suppressing vacuum energy and stabilizing the lattice
+- Visual outputs of microstate evolution, entropy maps, and curvature fields
+- Time-series tracking of entropy and global energy oscillations
+
+The simulation is designed for reproducibility, exploration, and outreach. It offers a hands-on demonstration of how entropic structure alone can give rise to geometric behavior—bridging ideas from quantum information, statistical mechanics, and emergent gravity.
+
+Run the notebook in Google Colab, tweak parameters, and visualize the birth of spacetime from entropy.
+
+
 # Holographic Entropic Spacetime (HES) Benchmark
 
 This repository contains a reproducible simulation demonstrating how spacetime curvature emerges from entanglement entropy among discrete microstates. It implements the HES framework—a toy model where entropy gradients generate curvature, and global feedback suppresses vacuum energy.
