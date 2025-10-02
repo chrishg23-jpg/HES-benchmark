@@ -78,8 +78,8 @@ The HES benchmark simulation produces four key outputs: the evolving microstate 
 
 The initial lattice consists of randomly assigned microstates, representing a high-entropy, disordered configuration. As the simulation progresses, local entropic interactions and global feedback dynamics smooth the lattice, driving it toward equilibrium.
 
-![Figure 1: Microstate Lattice Evolution](figures/Figure 1.PNG)
-(figures/Figure 1)
+![Figure 1: Microstate Lattice Evolution](Figures/Figure 1.PNG)
+(Figures/Figure 1)
 
 Interpretation:
 This evolution demonstrates that local entropy gradients can self-organize into coherent structure. The system stabilizes without external constraints, suggesting that informational dynamics alone can produce order.
