@@ -1,3 +1,14 @@
+Introduction
+
+The nature of spacetime remains one of the deepest puzzles in theoretical physics. While General Relativity describes gravity as curvature in a geometric manifold, and Quantum Mechanics governs the probabilistic behavior of particles, a unified framework that explains how spacetime itself emerges from quantum principles remains elusive.
+
+Recent advances in quantum information theory suggest that entanglement may play a foundational role in the emergence of spacetime geometry. From tensor networks to holographic dualities, the idea that “geometry is entanglement” has gained traction—but concrete, reproducible models remain rare.
+
+This paper introduces a toy model based on the Holographic Entropic Spacetime (HES) framework, where curvature arises from entropy gradients in a discrete lattice of microstates. The model simulates how local entropic interactions and global feedback dynamics can generate stable geometric structure without invoking mass or classical fields.
+
+We present a reproducible benchmark notebook that visualizes this process, offering a hands-on demonstration of how information structure alone can give rise to curvature. The results support the hypothesis that spacetime may be a macroscopic manifestation of underlying entropic dynamics—and open new avenues for exploring emergent gravity from first principles.
+
+
 Theoretical Framework
 
 The Holographic Entropic Spacetime (HES) framework proposes that spacetime curvature emerges from gradients in entanglement entropy across a discrete lattice of quantum microstates. Rather than treating geometry as a fundamental entity, HES models it as a macroscopic manifestation of underlying informational structure.
