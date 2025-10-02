@@ -17,7 +17,7 @@ Run the notebook in Google Colab, tweak parameters, and visualize the birth of s
 
 ## 🌀 Visual Explainer: How Entropy Bends Space
 
-![How Entropy Bends Space](hes_explainer.png)
+![How Entropy Bends Space](hes_explainer.PNG)
 
 This animation illustrates how spacetime curvature emerges from entanglement entropy in the HES framework:
 
