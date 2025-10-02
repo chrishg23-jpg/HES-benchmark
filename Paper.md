@@ -80,7 +80,9 @@ The initial lattice consists of randomly assigned microstates, representing a hi
 
 
 ![Figure 1: Microstate Lattice Evolution](Figures/Figure_1.PNG)
-(Figures/Figure_1.md)
+Figure 1: Microstate Lattice Evolution
+
+The system transitions from a high-entropy, disordered state to a smooth, stable configuration through local entropic interactions and global feedback.
 
 Interpretation:
 This evolution demonstrates that local entropy gradients can self-organize into coherent structure. The system stabilizes without external constraints, suggesting that informational dynamics alone can produce order.
@@ -93,7 +95,9 @@ This evolution demonstrates that local entropy gradients can self-organize into 
 The entropy map visualizes the distribution of local entanglement across the lattice. High-entropy regions appear as smooth gradients, while low-entropy zones reflect equilibrium or alignment.
 
 ![Figure 2: Entropy Map](Figures/Figure_2.PNG)
-(Figures/Figure_2.md)
+Figure 2: Entropy Map
+
+Entropy gradients reveal hidden structure in the lattice. High entropy regions indicate strong local entanglement; low entropy regions reflect equilibrium.
 
 Interpretation:
 Entropy acts as a proxy for informational connectivity. The emergence of smooth gradients indicates that entanglement structure can encode geometric features, supporting the hypothesis that spacetime may be woven from entropic relationships.
@@ -105,7 +109,9 @@ Entropy acts as a proxy for informational connectivity. The emergence of smooth 
 Applying a discrete Laplacian to the entropy field yields a curvature map. This map reveals how entropy gradients bend the lattice geometry, producing warps and folds without invoking mass or classical fields.
 
 ![Figure 3: Curvature Map](Figures/Figure_3.PNG)
-(Figures/Figure_3.md)
+Figure 3: Curvature Map
+
+Applying a Laplacian operator to the entropy map yields emergent curvature. Geometry bends in response to information structure, not mass.
 
 Interpretation:
 Curvature emerges directly from entropy. This result aligns with the idea that spacetime geometry is not fundamental, but emergent from deeper informational principles. The model provides a concrete, reproducible demonstration of this concept.
@@ -117,7 +123,9 @@ Curvature emerges directly from entropy. This result aligns with the idea that s
 The simulation tracks global entropy and energy over time. Entropy stabilizes early, indicating equilibrium, while global energy exhibits damped oscillations due to feedback dynamics.
 
 ![Figure 4: Time-Series Analysis](Figures/Figure_4.PNG)
-(Figures/Figure_4.md)
+Figure 4: Time-Series Analysis
+
+Entropy stabilizes early, indicating equilibrium. Global energy oscillates due to feedback dynamics, revealing the system’s self-regulating behavior.
 
 Interpretation:
 The system self-regulates through entropic feedback. The early stabilization of entropy suggests that equilibrium geometry can emerge quickly, while energy oscillations reflect the interplay between local structure and global constraints.
