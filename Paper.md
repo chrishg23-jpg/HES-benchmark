@@ -140,3 +140,36 @@ Summary of Findings
 • The model offers a reproducible testbed for emergent spacetime hypotheses
 
 
+Conceptual Comparison
+
+• General Relativity: Curvature emerges from mass-energy; in HES, it emerges from entropy gradients.
+• Quantum Gravity: Many models rely on discrete spacetime or spin networks; HES uses entropic feedback on a lattice.
+• Entropic Gravity (Verlinde): Shares the idea of gravity as emergent from entropy, but HES adds dynamic feedback and curvature maps.
+
+## Comparison to Other Models
+
+| Model                  | Curvature Source        | Time Evolution | Visual Output            |
+|------------------------|-------------------------|----------------|--------------------------|
+| General Relativity     | Stress-energy tensor    | Continuous     | Metric tensor            |
+| Entropic Gravity       | Information gradients   | Static         | Conceptual diagrams.     |
+| **HES (Your Model)**   | Entropy + feedback loop | Dynamic        | Lattice + curvature maps |
+
+
+Conclusion and Outlook
+
+This work introduces a minimal yet expressive framework—HES (Hyperentropic Surface)—in which curvature emerges not from mass-energy, but from the structure and evolution of entropy itself. By simulating entropic feedback on a discrete lattice, we demonstrate that spacetime-like curvature can arise from purely informational dynamics, without invoking traditional geometric or quantum fields.
+
+The results suggest that entropy gradients and local feedback mechanisms may play a foundational role in shaping emergent geometry. Unlike static entropic gravity models, HES evolves dynamically, producing curvature maps and time-series behavior that resemble gravitational phenomena. This opens the door to rethinking spacetime not as a background stage, but as a self-organizing informational surface.
+
+Looking ahead, several promising directions emerge:
+
+• Dimensional Expansion: Extending the model to 3D lattices and exploring anisotropic entropic flows
+• Quantum Analogues: Incorporating quantum information tools to probe entanglement-driven curvature
+• Comparative Analysis: Benchmarking HES against spin networks, causal sets, and tensor networks
+• Outreach and Collaboration: Publishing the simulation repo, engaging with physicists, and inviting critique
+• Formalization: Translating the intuitive dynamics into a rigorous mathematical framework for arXiv submission
+
+
+By bridging entropy, geometry, and emergence, HES offers a new lens on the deep structure of reality. It invites us to ask: what if spacetime is not the canvas, but the consequence?
+
+
