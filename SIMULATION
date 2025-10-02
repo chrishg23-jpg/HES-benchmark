@@ -1,0 +1,58 @@
+ Section: Simulation of Entropic Curvature in a 2D Lattice
+
+Overview
+
+We simulate a discrete 2D lattice of quantum microstates evolving under the Holographic Entropic Spacetime (HES) framework. The model captures how local entropy gradients and global feedback mechanisms give rise to emergent curvature—without invoking mass or classical geometry.
+
+---
+
+Model Setup
+
+• Lattice size: `\( N \times N \)` grid (typically `\( N = 40 \)`)
+• Initial state: Random microstate values drawn from a uniform distribution
+• Local dynamics: Entropy computed via Shannon entropy over nearest neighbors
+• Global feedback: A damping term suppresses vacuum energy and stabilizes the lattice
+• Parameters:• `\( \alpha \)`: Local entropy weight
+• `\( \beta \)`: Curvature sensitivity
+• `\( \gamma \)`: Global feedback strength
+• `\( \delta \)`: Damping coefficient
+
+
+
+---
+
+Figure 1: Microstate Lattice Evolution
+
+Caption: Initial random microstates evolve toward a stable configuration under entropic dynamics. Local interactions smooth the lattice while global feedback suppresses fluctuations.
+
+🖼️ Visual: Greyscale grid transitioning from noise to smoothness
+
+---
+
+Figure 2: Entropy Map
+
+Caption: Entropy gradients reveal hidden structure in the lattice. High entropy regions indicate strong local entanglement; low entropy regions reflect equilibrium.
+
+🖼️ Visual: Green heatmap with smooth gradients
+
+---
+
+Figure 3: Curvature Map
+
+Caption: Applying a Laplacian operator to the entropy map yields emergent curvature. Geometry bends in response to information structure, not mass.
+
+🖼️ Visual: Pink curvature map showing gentle warps
+
+---
+
+Figure 4: Time-Series Analysis
+
+Caption: Entropy stabilizes early, indicating equilibrium. Global energy oscillates due to feedback dynamics, revealing the system’s self-regulating behavior.
+
+🖼️ Visual: Line graph with flat blue (entropy) and wavy orange (energy)
+
+---
+
+Interpretation
+
+The simulation demonstrates that curvature can emerge purely from entropic structure. This supports the hypothesis that spacetime geometry may be a macroscopic manifestation of underlying quantum informational dynamics. The model is extensible to higher dimensions and alternative entropy measures.
