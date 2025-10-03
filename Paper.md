@@ -250,6 +250,12 @@ The laws of physics emerge as statistical regularities within the entanglement d
 
 
 
+
+
+
+
+
+
 Final Conclusion and Outlook Summary
 
 The HES framework successfully bridges entropy, geometry, and emergence by demonstrating that spacetime curvature is a consequence of self-regulating informational dynamics. The next steps focus on formally linking the Informational Action (\bm{\mathcal{A}}) to the Einstein-Hilbert Action and expanding the model into a full quantum information context using Tensor Networks and Von Neumann Entropy.
