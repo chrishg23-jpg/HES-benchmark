@@ -131,12 +131,10 @@ Entropy stabilizes early, indicating equilibrium. Global energy oscillates due t
 Interpretation:
 The system self-regulates through entropic feedback. The early stabilization of entropy suggests that equilibrium geometry can emerge quickly, while energy oscillations reflect the interplay between local structure and global constraints.
 
-![Figure 5: Microstate Lattice
-Entropy Field S and Curvature Map](Figures/Figure_5.png)
-
 ## Visual Schematic: Entropy-Driven Curvature Emergence in HES Framework
 
-![Entropy-Driven Curvature Emergence in HES Framework](Figures/HES_schematic.png)
+![Figure 5: Microstate Lattice
+Entropy Field S and Curvature Map](Figures/Figure_5.png)
 
 Figure 5
 A schematic-style diagram illustrating the Holographic Entropic Spacetime (HES) framework.  
