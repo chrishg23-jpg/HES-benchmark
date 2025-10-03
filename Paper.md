@@ -258,8 +258,6 @@ The Holographic Entropic Spacetime (HES) model operates on a discrete 3D lattice
 
 At each timestep, the scalar field is updated via:
 
-```blockmath
-
 s_{t+1} = s_t + \alpha \nabla^2 s_t - \beta s_t - \gamma \langle s_t \rangle
 
 where:
@@ -316,40 +314,6 @@ This phase demonstrates that curvature is not static—it propagates, interacts,
 
 ![Figure 7: Gradient Evolution(Figures/Figure_7.PNG)
 Composite frames from Gradient Evolution (anime2). Left: initial entropy configuration. Right: evolved curvature field showing clustering and directional flow.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Directional Curvature
 
