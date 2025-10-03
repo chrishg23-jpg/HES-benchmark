@@ -213,35 +213,36 @@ HES (Your Model):
   • Visual Output: Lattice + curvature maps
 
 
-  \section{Theory Integration: From Entanglement to Observable Laws}
+Theory Integration: From Entanglement to Observable Laws
 
 The HES framework offers a unified narrative for how the universe we observe—and the laws we derive from it—emerge from microscopic entanglement dynamics and are regulated by holographic constraints. Below, we outline how key physical phenomena arise naturally within this model.
 
-\subsection{Mass as Informational Tension}
+Mass as Informational Tension
 
 Mass emerges as a statistical effect of localized entanglement gradients. Regions of steep entropy imbalance behave as informational tension zones, curving the emergent geometry in a manner analogous to the stress-energy tensor in General Relativity. These zones stabilize the lattice by resisting expansion, effectively modeling mass without invoking particles.
 
-\subsection{Gravity as Entropic Equilibrium}
+Gravity as Entropic Equilibrium
 
 Spacetime curvature reflects the distribution of entropic forces across the microstate ensemble. Gravity is not a fundamental force but a statistical tendency toward equilibrium in entanglement entropy. The HES rulebook drives the system to minimize entanglement gradients, reproducing gravitational behavior as a thermodynamic effect.
 
-\subsection{Quantum Mechanics and Coherence}
+Quantum Mechanics and Coherence
 
 The UV layer of the framework is governed by quantum entanglement dynamics. Microstates evolve to maximize mutual information, forming coherent clusters that encode proto-geometric patches. This behavior mirrors quantum superposition and entanglement, suggesting that spacetime itself is a macroscopic expression of quantum coherence.
 
-\subsection{The Cosmological Constant as Statistical Residue}
+
+The Cosmological Constant as Statistical Residue
 
 The observed cosmological constant arises as a residual imbalance in the global entanglement ledger. HES sequesters expansive vacuum energy into boundary-encoded degrees of freedom, driving the net vacuum energy toward zero. The remaining fluctuation behaves like dark energy, naturally suppressed by the ratio `\( (H_0 t_P)^2 \)` without fine-tuning.
 
-\subsection{Casimir Effect and Boundary Entropy}
+Casimir Effect and Boundary Entropy
 
 Boundary constraints in the microstate lattice suppress entropy fluctuations, producing measurable forces akin to the Casimir effect. These forces arise from the statistical exclusion of high-energy modes near entropic boundaries, offering an entropic interpretation of vacuum pressure.
 
-\subsection{Black Holes as Holographic Ledgers}
+Black Holes as Holographic Ledgers
 
 Black holes are modeled as maximal entanglement sinks—regions where expansive microstates are sequestered into high-entropy, non-geometric degrees of freedom. These regions encode infalling information on their boundaries, acting as holographic ledgers that stabilize the global entanglement balance. This aligns with the fuzzball picture and the Bekenstein-Hawking entropy formula.
 
-\subsection{Regulation of Physical Laws}
+Regulation of Physical Laws
 
 The laws of physics emerge as statistical regularities within the entanglement dynamics. Conservation laws, causal structure, and geometric symmetries are not imposed but arise from the self-organizing behavior of the microstate ensemble. HES provides a regulatory mechanism that maintains these laws across scales via holographic feedback.
 
