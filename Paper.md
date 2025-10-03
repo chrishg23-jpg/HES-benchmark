@@ -372,7 +372,6 @@ Entropy–Curvature Coupling
 
 The simulations suggest a direct relationship between the scalar field `\( s \)` and emergent curvature `\( \kappa \)`. Specifically, curvature appears to arise from the Laplacian of entropy:
 
-```blockmath
 \kappa(x, y, z, t) \sim \nabla^2 s(x, y, z, t)
 Regions of high entropic divergence induce geometric deformation. In directional diagnostics (Section 3.3), the sign of `\( \kappa \)` encodes polarity—expansion versus contraction—while its magnitude reflects curvature intensity.
 
