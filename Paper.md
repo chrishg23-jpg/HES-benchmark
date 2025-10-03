@@ -164,30 +164,31 @@ Conceptual Comparison
 
 Conceptual Comparison
 • General Relativity:
-• Curvature Emerges From: Mass-Energy
-• Core Mechanism: Curvature of a geometric manifold
+  • Curvature Emerges From: Mass-Energy
+  • Core Mechanism: Curvature of a geometric manifold
 • Quantum Gravity Models (e.g., Causal Sets, Spin Networks):
-• Curvature Emerges From: Discrete/Quantum Principles
-• Core Mechanism: Spin networks, causal sets, or tensor graphs
+  • Curvature Emerges From: Discrete/Quantum Principles
+  • Core Mechanism: Spin networks, causal sets, or tensor graphs
 • Entropic Gravity (Verlinde):
-• Curvature Emerges From: Entropy/Information Gradients
-• Core Mechanism: Thermodynamic response to information difference
+  • Curvature Emerges From: Entropy/Information Gradients
+  • Core Mechanism: Thermodynamic response to information difference
 • HES (Your Model):
-• Curvature Emerges From: Entropy and Global Feedback
-• Core Mechanism: Minimization of Informational Action (\bm{\mathcal{A}}) on a lattice
+  • Curvature Emerges From: Entropy and Global Feedback
+  • Core Mechanism: Minimization of Informational Action (\bm{\mathcal{A}}) on a lattice
+
 Comparison to Other Models (Focus on Dynamics and Output)
 • General Relativity:
-• Curvature Source: Stress-energy tensor (\bm{T_{\mu \nu}})
-• Time Evolution: Continuous
-• Visual Output: Metric tensor
+  • Curvature Source: Stress-energy tensor (\bm{T_{\mu \nu}})
+  • Time Evolution: Continuous
+  • Visual Output: Metric tensor
 • Entropic Gravity:
-• Curvature Source: Information gradients
-• Time Evolution: Static
-• Visual Output: Conceptual diagrams
+  • Curvature Source: Information gradients
+  • Time Evolution: Static
+  • Visual Output: Conceptual diagrams
 • HES (Your Model):
-• Curvature Source: Entropy + feedback loop (\bm{\mathcal{A}})
-• Time Evolution: Dynamic
-• Visual Output: Lattice + curvature maps
+  • Curvature Source: Entropy + feedback loop (\bm{\mathcal{A}})
+  • Time Evolution: Dynamic
+  • Visual Output: Lattice + curvature maps
 
 Final Conclusion and Outlook Summary
 The HES framework successfully bridges entropy, geometry, and emergence by demonstrating that spacetime curvature is a consequence of self-regulating informational dynamics. The next steps focus on formally linking the Informational Action (\bm{\mathcal{A}}) to the Einstein-Hilbert Action and expanding the model into a full quantum information context using Tensor Networks and Von Neumann Entropy.
