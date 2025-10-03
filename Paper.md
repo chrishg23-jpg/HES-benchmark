@@ -259,6 +259,7 @@ The Holographic Entropic Spacetime (HES) model operates on a discrete 3D lattice
 At each timestep, the scalar field is updated via:
 
 ```blockmath
+
 s_{t+1} = s_t + \alpha \nabla^2 s_t - \beta s_t - \gamma \langle s_t \rangle
 
 where:
@@ -269,13 +270,9 @@ where:
 • `\( \beta \)` damps local entropy,
 • `\( \gamma \)` couples the field to its global average.
 
-
 Initial conditions are seeded with localized asymmetry—regions of elevated or suppressed entropy—to probe the system’s geometric response. No mass, momentum, or external fields are introduced; curvature arises solely from entropic structure.
 
-To visualize emergent geometry, we compute the Laplacian magnitude at each point, interpreted as a proxy for curvature intensity. We also accumulate curvature memory over time:
-
 M(x, y, z) = \sum_t |\nabla^2 s(x, y, z, t)|
-
 
 This memory field reveals persistent geometric features and attractor dynamics. Animations are rendered using 3D scatter plots, with color maps encoding scalar intensity and curvature memory.
 
@@ -309,7 +306,6 @@ This frame establishes a baseline: curvature can emerge from information structu
 ![Figure 6: Static Curvature Hotspots](Figures/Figure_6.PNG)
 Static curvature hotspots at `\( t = 0 \)`, arising from seeded entropy asymmetry. High-curvature regions cluster around entropy wells, forming spatially coherent structures.
 
-
 Gradient Evolution
 
 This animation introduces temporal dynamics into the lattice, allowing entropy gradients to evolve under the Laplacian update rule. The initial configuration—visible in the left frame—shows a sparse, structured field of entropy vectors, color-coded by magnitude. As the simulation progresses (right frame), the field becomes more expressive: vectors cluster, elongate, and reorient, revealing emergent curvature patterns.
@@ -320,6 +316,40 @@ This phase demonstrates that curvature is not static—it propagates, interacts,
 
 ![Figure 7: Gradient Evolution(Figures/Figure_7.PNG)
 Composite frames from Gradient Evolution (anime2). Left: initial entropy configuration. Right: evolved curvature field showing clustering and directional flow.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Directional Curvature
 
