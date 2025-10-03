@@ -301,7 +301,7 @@ The resulting visualization shows discrete red hotspots—regions of elevated La
 
 This frame establishes a baseline: curvature can emerge from information structure alone. It confirms that entropy gradients are sufficient to generate localized curvature, even in the absence of motion, mass, or external fields.
 
-![Figure 6: Static Curvature Hotspots](Figures/Figure_6.PNG)
+![Figure 6: Static Curvature Hotspots](Figures/Figure_6.png)
 Static curvature hotspots at `\( t = 0 \)`, arising from seeded entropy asymmetry. High-curvature regions cluster around entropy wells, forming spatially coherent structures.
 
 Gradient Evolution
@@ -312,7 +312,7 @@ The transition illustrates how entropy wells act as attractors, organizing nearb
 
 This phase demonstrates that curvature is not static—it propagates, interacts, and self-organizes. The animation reveals how local entropy gradients seed global geometric behavior, setting the stage for directional curvature and memory accumulation in later diagnostics.
 
-![Figure 7: Gradient Evolution(Figures/Figure_7.PNG)
+![Figure 7: Gradient Evolution(Figures/Figure_7.png)
 Composite frames from Gradient Evolution (anime2). Left: initial entropy configuration. Right: evolved curvature field showing clustering and directional flow.
 
 Directional Curvature
@@ -323,7 +323,7 @@ The composite image below shows six sequential frames from the simulation. Early
 
 This behavior suggests that curvature is not merely scalar—it has directionality. The red–blue polarity reflects local divergence in the entropy field, hinting at a deeper geometric logic. Expansion zones repel, contraction zones attract, and the interplay between them drives the lattice’s emergent dynamics.
 
-![Figure 8: Directional Curvature](Figures/Figure-8.PNG)
+![Figure 8: Directional Curvature](Figures/Figure-8.png)
 Composite image from Directional Curvature (anime3), showing six sequential frames. Red and blue markers encode expansion and contraction zones, revealing oscillatory structure and directional curvature.
 
 Curvature Memory
@@ -336,7 +336,7 @@ The color gradient (dark purple to bright yellow) encodes curvature intensity, w
 
 This behavior suggests that the lattice encodes not just momentary curvature, but a geometric memory of its entropic evolution. These hotspots may act as attractors or scaffolds for future dynamics, hinting at a deeper temporal logic within the system.
 
-![Figure 9: Curvature Memory](Figures/Figure_9.PNG)
+![Figure 9: Curvature Memory](Figures/Figure_9.png)
 Composite image from Curvature Memory (anime4), showing six sequential frames from Step 0 to Step 49. Persistent hotspots emerge as curvature accumulates over time, forming entropic scars.
 
 Scalar Field
@@ -362,7 +362,7 @@ Bright yellow regions mark high-entropy zones, while surrounding halos encode pe
 
 This overlay confirms the tight coupling between entropy and geometry. Scalar wells seed curvature, curvature accumulates, and memory halos form—creating a feedback loop that drives emergent structure. The lattice now exhibits coherence across time, space, and informational
 
-![Figure 11: Scalar Field plus Curvature Memory](Figures/Figure_11.PNG)
+![Figure 11: Scalar Field plus Curvature Memory](Figures/Figure_11.png)
 
 Composite image from Scalar Field + Curvature Memory (anime6), showing six sequential frames. Bright entropy cores are surrounded by curvature halos, revealing co-localized structure and geometric memory.
 
