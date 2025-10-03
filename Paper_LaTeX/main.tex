@@ -238,7 +238,7 @@ This phase demonstrates that curvature is not static—it propagates, interacts,
 % Insert composite figure here
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.9\textwidth]{figures/Figure_7.PNG}
+    \includegraphics[width=0.9\textwidth]{Figures/Figure_7.PNG}
     \caption{Composite frames from Gradient Evolution (anime2). Left: initial entropy configuration. Right: evolved curvature field showing clustering and directional flow.}
     \label{fig:gradient_evolution}
 \end{figure}
@@ -254,11 +254,28 @@ This behavior suggests that curvature is not merely scalar—it has directionali
 % Insert composite figure here
 \begin{figure}[h]
     \centering
-    \includegraphics[width=0.9\textwidth]{figures/Figure-8.PNG}
+    \includegraphics[width=0.9\textwidth]{Figures/Figure-8.PNG}
     \caption{Composite image from Directional Curvature (anime3), showing six sequential frames. Red and blue markers encode expansion and contraction zones, revealing oscillatory structure and directional curvature.}
     \label{fig:directional_curvature}
 \end{figure}
 
+\subsection{Curvature Memory}
+
+This diagnostic reveals the lattice’s ability to accumulate geometric history. Rather than visualizing instantaneous curvature, we sum the Laplacian field over time, producing a memory map of persistent curvature zones.
+
+The composite image below shows six sequential frames from the simulation, spanning from Step 0 to Step 49. Early frames show sparse, low-intensity curvature, while later frames reveal concentrated hotspots—regions where curvature repeatedly accumulates. These are not transient fluctuations; they are entropic scars, etched into the lattice by sustained gradient activity.
+
+The color gradient (dark purple to bright yellow) encodes curvature intensity, with yellow zones marking long-lived geometric structure. These persistent regions often align with entropy wells, suggesting a feedback loop between information structure and curvature memory.
+
+This behavior suggests that the lattice encodes not just momentary curvature, but a geometric memory of its entropic evolution. These hotspots may act as attractors or scaffolds for future dynamics, hinting at a deeper temporal logic within the system.
+
+% Insert composite figure here
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=0.9\textwidth]{Figures/Figure_9.PNG}
+    \caption{Composite image from Curvature Memory (anime4), showing six sequential frames from Step 0 to Step 49. Persistent hotspots emerge as curvature accumulates over time, forming entropic scars.}
+    \label{fig:curvature_memory}
+\end{figure}
 
 
 
