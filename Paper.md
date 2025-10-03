@@ -301,7 +301,7 @@ The resulting visualization shows discrete red hotspots—regions of elevated La
 
 This frame establishes a baseline: curvature can emerge from information structure alone. It confirms that entropy gradients are sufficient to generate localized curvature, even in the absence of motion, mass, or external fields.
 
-![Figure 6: Static Curvature Hotspots](Figures/Figure_6.png)
+![Figure 6: Static Curvature Hotspots](Figures/Figure_6.PNG)
 Static curvature hotspots at `\( t = 0 \)`, arising from seeded entropy asymmetry. High-curvature regions cluster around entropy wells, forming spatially coherent structures.
 
 Gradient Evolution
@@ -312,7 +312,7 @@ The transition illustrates how entropy wells act as attractors, organizing nearb
 
 This phase demonstrates that curvature is not static—it propagates, interacts, and self-organizes. The animation reveals how local entropy gradients seed global geometric behavior, setting the stage for directional curvature and memory accumulation in later diagnostics.
 
-![Figure 7: Gradient Evolution(Figures/Figure_7.png)
+![Figure 7: Gradient Evolution(Figures/Figure_7.PNG)
 Composite frames from Gradient Evolution (anime2). Left: initial entropy configuration. Right: evolved curvature field showing clustering and directional flow.
 
 Directional Curvature
