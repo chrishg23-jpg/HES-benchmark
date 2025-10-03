@@ -132,7 +132,7 @@ Interpretation:
 The system self-regulates through entropic feedback. The early stabilization of entropy suggests that equilibrium geometry can emerge quickly, while energy oscillations reflect the interplay between local structure and global constraints.
 
 ![Figure 5: Microstate Lattice
-Entropy Field S and Curvature Map](Figures/Figure_5.PNG)
+Entropy Field S and Curvature Map](Figures/Figure_5.png)
 ---
 
 Summary of Findings
