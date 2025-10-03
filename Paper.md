@@ -8,6 +8,8 @@ This paper introduces a toy model based on the Holographic Entropic Spacetime (H
 
 We present a reproducible benchmark notebook that visualizes this process, offering a hands-on demonstration of how information structure alone can give rise to curvature. The results support the hypothesis that spacetime may be a macroscopic manifestation of underlying entropic dynamics—and open new avenues for exploring emergent gravity from first principles.
 
+To deepen this investigation, we developed a sequence of modular simulations that visualize directional curvature emergence from entropy gradients. These animations reveal how curvature forms, propagates, and accumulates memory within the lattice, offering a diagnostic lens on the dynamics of entropic geometry. Each simulation isolates a distinct regime—from static curvature hotspots to oscillatory expansion zones, from persistent curvature memory to entropy-driven attractor formation. Together, they provide empirical support for the HES framework and offer a reproducible visual narrative of emergent spacetime structure.
+
 ---
 
 Theoretical Framework
