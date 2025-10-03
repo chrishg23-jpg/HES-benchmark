@@ -29,4 +29,38 @@ This paper introduces a toy model based on the Holographic Entropic Spacetime (H
 
 We present a reproducible benchmark notebook that visualizes this process, offering a hands-on demonstration of how information structure alone can give rise to curvature. The results support the hypothesis that spacetime may be a macroscopic manifestation of underlying entropic dynamics—and open new avenues for exploring emergent gravity from first principles.
 
+\section{Theoretical Framework}
+
+The Holographic Entropic Spacetime (HES) model proposes that spacetime curvature can emerge from entropy gradients across a discrete lattice of quantum microstates. This framework is inspired by the idea that information structure—not mass or classical fields—may be the true substrate of geometry.
+
+\subsection{Microstate Lattice and Entropy Field}
+
+We begin with a two-dimensional lattice `\( S(x, y) \)`, where each site represents a quantum microstate. The entropy at each site is initialized randomly within a bounded range, and evolves over time according to local interactions and global feedback.
+
+The entropy field is visualized as a heatmap, with color intensity representing the value of `\( S(x, y) \)`. This field serves as the foundation for curvature extraction.
+
+\subsection{Informational Action and Feedback Loop}
+
+To simulate global coherence, we define an Informational Action `\( \mathcal{A}(t) \)`, which aggregates entropic flows across the lattice. Arrows between neighboring sites represent directional entropic gradients, and a feedback loop overlays the system to enforce temporal consistency.
+
+This feedback mechanism is schematic, but conceptually analogous to an action principle in classical physics—minimizing `\( \mathcal{A}(t) \)` leads to emergent structure.
+
+\subsection{Curvature Extraction via Laplacian}
+
+Curvature is derived from the entropy field using a discrete Laplacian operator:
+
+\begin{equation}
+C(x, y) = \nabla^2 S(x, y)
+\end{equation}
+
+This yields a curvature map `\( C(x, y) \)`, which is visualized as a second heatmap. Positive curvature corresponds to regions of high entropy concentration, while negative curvature reflects entropic depletion.
+
+\subsection{Update Rule: Metropolis–Hastings}
+
+The lattice evolves via a Metropolis–Hastings algorithm. At each timestep, a candidate microstate flip is proposed and accepted probabilistically based on its impact on the global entropy configuration.
+
+This rule ensures that the system explores its configuration space while favoring transitions that reduce informational tension. Over time, the lattice stabilizes into a geometry shaped by entropic dynamics.
+
+
+
 
