@@ -133,6 +133,18 @@ The system self-regulates through entropic feedback. The early stabilization of 
 
 ![Figure 5: Microstate Lattice
 Entropy Field S and Curvature Map](Figures/Figure_5.png)
+
+## Visual Schematic: Entropy-Driven Curvature Emergence in HES Framework
+
+![Entropy-Driven Curvature Emergence in HES Framework](Figures/HES_schematic.png)
+
+Figure 5
+A schematic-style diagram illustrating the Holographic Entropic Spacetime (HES) framework.  
+- Left: a 2D microstate lattice with entropy field `\( S(x, y) \)`, color-coded.  
+- Arrows: schematic entropic flows representing Informational Action `\( \mathcal{A}(t) \)`.  
+- Right: the derived curvature map `\( C(x, y) = \nabla^2 S(x, y) \)`.  
+- Annotation: Update Rule (Metropolis–Hastings) for microstate flips.
+
 ---
 
 Summary of Findings
