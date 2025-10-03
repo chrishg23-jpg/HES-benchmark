@@ -312,7 +312,7 @@ The transition illustrates how entropy wells act as attractors, organizing nearb
 
 This phase demonstrates that curvature is not static—it propagates, interacts, and self-organizes. The animation reveals how local entropy gradients seed global geometric behavior, setting the stage for directional curvature and memory accumulation in later diagnostics.
 
-![Figure 7: Gradient Evolution(Figures/Figure_7.PNG)
+![Figure 7: Gradient Evolution](Figures/Figure_7.png)
 Composite frames from Gradient Evolution (anime2). Left: initial entropy configuration. Right: evolved curvature field showing clustering and directional flow.
 
 Directional Curvature
@@ -323,7 +323,7 @@ The composite image below shows six sequential frames from the simulation. Early
 
 This behavior suggests that curvature is not merely scalar—it has directionality. The red–blue polarity reflects local divergence in the entropy field, hinting at a deeper geometric logic. Expansion zones repel, contraction zones attract, and the interplay between them drives the lattice’s emergent dynamics.
 
-![Figure 8: Directional Curvature](Figures/Figure-8.png)
+![Figure 8: Directional Curvature](Figures/Figure_8.png)
 Composite image from Directional Curvature (anime3), showing six sequential frames. Red and blue markers encode expansion and contraction zones, revealing oscillatory structure and directional curvature.
 
 Curvature Memory
