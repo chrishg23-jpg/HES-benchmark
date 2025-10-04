@@ -26,6 +26,7 @@ We now ask the system to retrace its steps.
 
 Starting from the final state of the forward simulation, we reverse the update rules. Entropy should reconcentrate. Curvature should re-emerge. But they don’t.
 
+![Figure 2: Reversabilty Test](Figures/Time001.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/TimesArrowReversed.ipynb)
 
