@@ -4,7 +4,7 @@ We begin not with reversibility, but with emergence.
 
 From a single spike of entropy at the center of the lattice, the system unfolds. Entropy diffuses outward, and curvature—born from gradients and memory—rises briefly, then fades.
 
-![Figure 1: Forwards Evolurtion](Figures/Time001.PNG)
+![Figure 1: Forwards Evolurtion](Time/Figures/Time001.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Times_Arrow.ipynb)
 
