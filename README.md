@@ -60,7 +60,7 @@ Click below to open and run the notebook instantly in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_3DAnime3.ipynb)
 
-[Open in Colab](https://colab.research.google.com/github/chrishgs23-jpg/HES-benchmark/blob/main/HES_3DAnime4.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_3DAnime4.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_3DAnime5.ipynb)
 
