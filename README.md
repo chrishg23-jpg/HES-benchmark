@@ -81,6 +81,13 @@ Overlay: Scalar Field + Curvature Memory
 
 - `HES_Benchmark.ipynb`: Main simulation notebook
 - `README.md`: Project overview and instructions
+- `HES_3D.ipynb`: Main simulation notebook
+- `Copy_of_HES_3D_Anime.ipynb`: Main simulation notebook
+- `HES_HES_3DAne2`: Main simulation notebook
+- `HES_Copy_of_HSE_3DAnime3.ipynb`: Main simulation notebook
+- `HES_Hes_3DAnime4.ipynb`: Main simulation notebook
+- `HES_HES_3DAnime5.ipynb`: Main simulation notebook
+
 
 ## 📖 How to Use
 
