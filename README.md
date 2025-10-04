@@ -3,7 +3,7 @@ Simulation of emergent spacetime curvature from entanglement entropy using the H
 
 Audio from NotebookLM deepdive
 
-[Listen to audio](Audio/to/HES-Audio001.m4a)
+[Listen to audio](Audio/HES-Audio001.m4a)
 
 
 ## 🧬 Abstract
