@@ -10,7 +10,11 @@ Audio from NotebookLM deepdive
 ## 🎧 Guided Audio Tour
 
 Explore the HES framework with narrated insights:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/## 🎧 Guided Audio Tour
+
+Explore the HES framework with narrated insights:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_AudioGuide.ipynb)
+)
 
 
 ## 🧬 Abstract
