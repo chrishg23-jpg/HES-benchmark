@@ -48,7 +48,7 @@ We now ask the system not just to rewind its metrics, but to reconstruct its str
 
 ![Figure 3: Reversabilty Test](Figures/Time003.png)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/TimesArrowReversed001.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/TimesArrowReversed002.ipynb)
 
 
 These four heatmaps show how entropy and curvature evolve across space and time—first forward, then in attempted reverse:
