@@ -5,6 +5,9 @@ Audio from NotebookLM deepdive
 
 [Listen to audio](Audio/HES_Audio001.m4a)
 
+[Listen to audio](https://raw.githubusercontent.com/chrishg23-jpg/HES-benchmark/main/Audio/HES_Audio001.m4a)
+
+
 
 ## 🧬 Abstract
 
