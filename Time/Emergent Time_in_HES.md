@@ -65,3 +65,9 @@ Distorted bands, no restoration. The system tries to rewind—but leaves scars.
 
 🧠 Interpretation:
 Time’s arrow is visible in the structure itself. The reverse simulation doesn’t reconstruct the forward one—it mutates it. Memory loss breaks reversibility. Geometry remembers what entropy forgets.
+
+In systems governed by reversible laws, memory loss doesn’t imply destruction—it signals dispersion. What was once a coherent record becomes entangled with the environment, its structure smeared across inaccessible degrees of freedom. This diffusion marks the boundary we call the arrow of time: not a fundamental asymmetry, but a practical limit of reconstruction.
+
+At the edge of reconstructability, memory persists in principle but not in practice. Quantum mechanics preserves information through unitary evolution, yet decoherence renders it unreachable. The memory becomes a ghost in the wavefunction—present in the global state, but lost to any local observer.
+
+This is the domain of quantum echoes: faint, theoretical traces of the past that shimmer beneath the noise, reminding us that irreversibility is not absolute, but emergent from entanglement, entropy, and the limits of observation.
