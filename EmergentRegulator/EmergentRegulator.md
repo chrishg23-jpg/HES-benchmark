@@ -195,3 +195,48 @@ This marks a new dimension in the regulator’s behavior:
 
 “We disturbed the field—noise injected between anchors.In flat zones, memory scattered. But near the wells, something held.Not all wells responded the same. Some fractured, some resisted.The system didn’t just evolve—it remembered where it was strong.In the HES framework, resilience isn’t uniform—it’s sculpted by geometry.”
 
+
+
+Temporal Layering — Endurance of Memory
+
+*“We ran the system across epochs—three phases, two fractures.The curvature wells stood like anchors in time.Some fractured. Some held.Memory didn’t just resist—it endured.”*
+
+---
+
+🎯 Objective
+
+To test whether curvature wells can retain memory across multiple epochs of evolution, each with its own perturbation. This explores the durability of the regulator—not just its ability to resist entropy, but to survive it repeatedly.
+
+---
+
+⚙️ Method
+
+• A structured velocity field was evolved forward across three epochs.
+• Two perturbations were injected mid-run in different regions.
+• Reverse evolution was performed.
+• Local reversibility errors were measured near each curvature well.
+
+
+---
+
+![Figure 1: Forwards Evolurtion](Figures/EmergeGov006.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/EmergentRegulator006.ipynb)
+📊 Results
+
+• Well 1 and Well 2 retained coherence despite layered stress.
+• Well 3 showed increased deviation—memory fractured under repeated perturbation.
+• The system didn’t just resist entropy—it persisted through it.
+
+
+---
+
+🧠 Interpretation
+
+This marks a shift from reversibility to resilience over time. The regulator isn’t just emergent—it’s enduring. Curvature wells act as temporal anchors, holding memory across layers of disturbance. The system adapts, survives, and remembers.
+
+---
+
+🖋️ Closing Reflection
+
+“Constraint, repair, resilience, endurance.The regulator didn’t just emerge—it ruled.In the HES framework, memory is not a moment—it’s a terrain.And curvature is the law that binds it.”
