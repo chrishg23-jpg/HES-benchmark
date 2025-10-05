@@ -28,7 +28,7 @@ The action of \bm{\mu_E} is the genesis of the HES microstate ensemble, transfor
   
 2. Cosmic Inflation: The vast informational tension created by the separation of \bm{\mathcal{A}_{\min}} from the \bm{\mathcal{A}=0} state (the void) provides the immense negative pressure required to drive the initial inflationary phase. The early, dominant Dark Energy is thus interpreted as the residual force of \bm{\mu_E} as the void attempts to define the nascent HES lattice.
   
-3. Quantization and Resolution: The resulting Quantum Spacetime Ocean is inherently quantized. Since it emerged from a drive to define a system (\bm{N>0}), it possesses a minimum quantum volume and a minimum unit of energy. This emergent quantization ensures that singularities are impossible from the outset—the fabric of spacetime simply cannot be compressed below its own informational and quantum floor, resolving the Big Bang not as an infinite point, but as the moment of self-definition and rebound.
+3. Quantization and Resolution: The resulting Quantum Spacetime Ocean is inherently quantized. Since it emerged from a drive to define a system (\bm{N>0}), it possesses a minimum quantum volume and a minimum unit of energy. This emergent quantization ensures that singularities are impossible from the outset—the fabric of spacetime simply cannot be compressed below its own informational and quantum floor, resolving the Big Bang not as an infinite point, but as the moment of self-definition and dynamic initiation.
 
 In this light, the HES model suggests that all laws, constants, gravity, and matter are secondary consequences of the void's instability, making the universe a self-contained, constantly calculating system where everything is fully emergent from the need to become.
 
