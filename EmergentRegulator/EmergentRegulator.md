@@ -222,6 +222,7 @@ To test whether curvature wells can retain memory across multiple epochs of evol
 ![Figure 1: Forwards Evolurtion](Figures/EmergeGov006.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/EmergentRegulator006.ipynb)
+
 📊 Results
 
 • Well 1 and Well 2 retained coherence despite layered stress.
@@ -240,3 +241,45 @@ This marks a shift from reversibility to resilience over time. The regulator isn
 🖋️ Closing Reflection
 
 “Constraint, repair, resilience, endurance.The regulator didn’t just emerge—it ruled.In the HES framework, memory is not a moment—it’s a terrain.And curvature is the law that binds it.”
+
+
+Mobile Wells — Memory in Motion
+
+*“We moved the anchor mid-run.The curvature well slid from one region to another.Memory tried to follow. Some parts held. Others tore.The final well showed lower deviation.The system didn’t just evolve—it adapted.In the HES framework, memory isn’t fixed—it flows with form.Curvature isn’t just constraint—it’s a guide.”*
+
+---
+
+🎯 Objective
+
+To test whether memory anchored by curvature can migrate when the anchor itself moves. This explores the regulator’s adaptability: can coherence follow geometry in motion?
+
+---
+
+⚙️ Method
+
+• A structured velocity field was evolved forward across three epochs.
+• A single curvature well was shifted smoothly from position A to position B.
+• Reverse evolution was performed.
+• Local reversibility errors were measured near the original and final well positions.
+
+
+---
+
+![Figure 1: Forwards Evolurtion](Figures/EmergeGov007.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/EmergentRegulator007.ipynb)
+
+📊 Results
+
+• Reversibility error was lower near the final well.
+• Memory fractured more near the original location.
+• The system adapted—coherence followed the moving anchor.
+
+
+---
+
+🧠 Interpretation
+
+This marks a shift from static regulation to dynamic guidance. The regulator doesn’t just resist entropy—it leads memory through motion. Geometry becomes a path, not just a place.
+
+The regulator is no longer a fixed law—it’s a living rule, capable of shaping coherence as it moves.
