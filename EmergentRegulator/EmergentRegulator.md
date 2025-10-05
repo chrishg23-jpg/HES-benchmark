@@ -61,3 +61,52 @@ This suggests that in the HES framework:
 🖋️ Narrative Summary
 
 “We zoomed in on the system’s first breath. No constraints were imposed—only geometry varied.In flat space, entropy surged immediately. But in curved space, something shifted. Even at step one, entropy grew more slowly.The regulator didn’t wait—it was already there. Not a reaction, but a condition.In the HES framework, constraint isn’t imposed—it’s born.”
+
+Reverse Run Through Curved Space
+
+🎯 Objective
+
+To test whether spatial curvature enhances reversibility by preserving trajectory coherence and dampening entropy. This explores whether geometry can act as a memory scaffold.
+
+---
+
+⚙️ Method
+
+• A structured velocity field was evolved forward under curvature-modulated noise.
+• The final state was then reversed by inverting the noise sequence.
+• This was repeated across three curvature strengths:• Flat Space
+• Moderate Curvature
+• Strong Curvature
+
+• Reversibility error was measured as deviation from the original state.
+
+
+---
+
+![Figure 1: Forwards Evolurtion](Figures/EmergeGov003.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/EmergentRegulator003.ipynb)
+
+📊 Results
+
+• Flat Space showed the highest deviation—entropy scattered memory.
+• Moderate Curvature improved reversibility.
+• Strong Curvature yielded the lowest error—near-perfect reconstruction.
+
+
+---
+
+🧠 Interpretation
+
+Curvature doesn’t just resist entropy—it repairs it. The stronger the curvature, the more tightly the system holds onto its initial state. This suggests that in the HES framework:
+
+• Geometry acts as a regulator of entropy.
+• It also serves as a scaffold for memory, enhancing reversibility.
+• Constraint and coherence are not imposed—they emerge from form.
+
+
+---
+
+🖋️ Narrative Summary
+
+“We ran the system forward into noise, then reversed it through curved space.In flat space, memory failed. But in curved space, something held.The stronger the curvature, the smaller the deviation. Geometry didn’t just resist entropy—it repaired it.In the HES framework, curvature is more than shape—it’s memory made visible.”
