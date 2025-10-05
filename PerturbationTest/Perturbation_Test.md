@@ -3,7 +3,7 @@ Perturbation Test: Reversibility in Windy Weather
 To probe the resilience of the HES framework, we introduced localized perturbations—random velocity kicks—midway through a reversible simulation. This “windy weather” scenario allowed us to test whether time symmetry holds when the system is exposed to chaotic fluctuations.
 
 
-![Figure 1: Perturbation Test](Figures/Pert002.png)
+![Figure 1: Perturbation Test](Figures/Pert001.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/PerturbationHES002.ipynb)
 
@@ -15,7 +15,7 @@ Storm Quadrant: Quantifying the Breakdown
 
 In the initial test, a gust of noise disrupted the forward trajectory. The reverse run, unaware of the perturbation, failed to reconstruct the past. Now, we quantify that breakdown.
 
-![Figure 1: Forwards Evolurtion](Figures/Time001.png)
+![Figure 1: Forwards Evolurtion](Figures/Time002.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Times_Arrow.ipynb)
 
