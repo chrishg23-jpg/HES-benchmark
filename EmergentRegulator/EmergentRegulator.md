@@ -428,3 +428,38 @@ This wasn’t just a series of simulations. It was a performance—a guided expl
 
 
 The regulator isn’t just a mechanism. It’s a narrative device. It listens, adapts, and evolves. And through these ten acts, it taught us that memory isn’t static—it’s a living architecture.
+
+Integration with HES Theory
+
+The regulator arc serves as a focused exploration within the broader framework of Hierarchical Emergent Systems (HES) theory. HES proposes that physical systems can exhibit layered emergence—where memory, regulation, and law formation arise not from imposed rules, but from internal dynamics shaped by interaction, feedback, and collapse.
+
+This ten-part regulator sequence tests that proposition directly.
+
+🧠 Memory as Architecture
+
+Early acts demonstrate that memory is not just a passive trace—it’s an active architecture. The regulator responds to memory density, curvature, and perturbation, revealing that memory zones can guide system behavior even in the absence of external control.
+
+🔄 Regulation as Adaptive Feedback
+
+Across perturbation, migration, and collapse, the regulator shows adaptive qualities. It filters noise, tracks moving anchors, and attempts to suppress entropy. This supports HES’s claim that regulation can emerge as a second-order behavior—responsive, not directive.
+
+📈 Entropy as a Diagnostic
+
+Entropy curves throughout the arc serve as a diagnostic tool. Smooth rises signal emergence, sharp spikes indicate breakdown, and dips suggest recovery. These transitions align with HES’s emphasis on entropy as a marker of phase change and systemic thresholds.
+
+🧬 Emergent Law Formation
+
+The most striking result comes in the Emergent Law Discovery act. With all constraints removed, the system still forms structure—a circular trace, coherent memory, and smooth entropy growth. This validates HES’s core hypothesis: that laws can emerge from within, not above.
+
+🧨 Collapse and Rebirth
+
+The final acts—Regulator Collapse and Rebirth—test resilience. Collapse reveals the limits of regulation. Rebirth shows that memory can reassemble without external reset. This supports HES’s view of systems as capable of self-repair and transformation, not just equilibrium.
+
+---
+
+🧭 Summary
+
+The regulator arc doesn’t just illustrate HES theory—it enacts it. Each act is a test of emergence, adaptability, and internal law formation. Together, they show that systems governed by memory and feedback can evolve, fracture, and reform—without needing imposed rules.
+
+This sequence provides experimental grounding for HES’s central claims and offers a modular template for future explorations of emergent behavior.
+
