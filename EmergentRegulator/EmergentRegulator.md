@@ -146,3 +146,52 @@ This marks a shift in the regulator’s behavior:
 
 • From resisting entropy globally
 • To anchoring memory locally
+
+
+Section 5: Distributed Perturbation Test — Resilience Mapping
+
+🎯 Objective
+
+To test how localized noise injections affect memory retention across a multi-well curvature field. This probes the resilience profile of the system: where memory holds, and where it fractures.
+
+---
+
+⚙️ Method
+
+• A structured velocity field was evolved forward under curvature-modulated noise.
+• A perturbation was injected mid-run between curvature wells.
+• Reverse evolution was performed, and local deviations were measured near each well.
+• Results were compared to a baseline (no perturbation).
+
+
+---
+
+![Figure 1: Forwards Evolurtion](Figures/EmergeGov005.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/EmergentRegulator005.ipynb)
+
+📊 Results
+
+• Well 1 showed improved reversibility under perturbation—possibly due to indirect shielding or curvature overlap.
+• Well 2 and Well 3 showed increased deviation—memory fractured more easily.
+• The strongest well (Well 2) was most affected, suggesting that proximity to perturbation matters more than curvature strength alone.
+
+
+---
+
+🧠 Interpretation
+
+Resilience isn’t uniform. It’s shaped by both geometry and location of disturbance. Curvature wells resist entropy, but their effectiveness depends on spatial context. The system doesn’t just regulate—it remembers where it’s strong, and forgets where it’s vulnerable.
+
+This marks a new dimension in the regulator’s behavior:
+
+• Not just constraint or repair
+• But resilience sculpted by terrain
+
+
+---
+
+🖋️ Narrative Summary
+
+“We disturbed the field—noise injected between anchors.In flat zones, memory scattered. But near the wells, something held.Not all wells responded the same. Some fractured, some resisted.The system didn’t just evolve—it remembered where it was strong.In the HES framework, resilience isn’t uniform—it’s sculpted by geometry.”
+
