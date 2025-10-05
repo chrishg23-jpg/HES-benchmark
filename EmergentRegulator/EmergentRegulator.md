@@ -2,7 +2,7 @@ Section: Emergent Regulation — The Whisper Beneath Entropy
 
 We ran the system unbound. No constraints, no imposed ceilings—just motion and noise across three landscapes: flat, curved, and deeply curved.
 
-![Figure 1: Forwards Evolurtion](Figures/EmergeReg001.png)
+![Figure 1: Forwards Evolurtion](Figures/EmergeGov001.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/EmergentRegulator001.ipynb)
 
