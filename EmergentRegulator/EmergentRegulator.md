@@ -347,7 +347,7 @@ The system begins in collapse. Memory is fragmented, coherence lost. No reset is
 • Curvature: Emerges organically from surviving memory zones
 • Perturbations: Minimal—just enough to stir latent structure
 
-![Figure 1: Forwards Evolurtion](Figures/EmergeGov0010.png)
+![Figure 1: Forwards Evolurtion](Figures/EmergeGov010.png.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main//RegulatorEvo003.ipynb)
 
