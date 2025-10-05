@@ -283,3 +283,33 @@ To test whether memory anchored by curvature can migrate when the anchor itself 
 This marks a shift from static regulation to dynamic guidance. The regulator doesn’t just resist entropy—it leads memory through motion. Geometry becomes a path, not just a place.
 
 The regulator is no longer a fixed law—it’s a living rule, capable of shaping coherence as it moves.
+
+
+
+The following section are exploring how the regulator evolves
+
+
+Emergent Law Discovery
+
+Theme: Let the system whisper its own rules.
+
+🎙️ Narrative Walkthrough
+
+![Figure 1: Forwards Evolurtion](Figures/EmergeGov008.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main//RegulatorEvo001.ipynb)
+
+No hand guides the field. No voice commands the regulator. Yet patterns emerge—whispers of law in the silence.
+
+We begin with absence. No curvature, no imposed rhythm. Just a seed—one point of memory in a neutral field. The regulator watches, but does not act. It listens.
+
+Time unfolds. Entropy rises, but not chaotically. A rhythm begins to pulse beneath the surface. Memory anchors itself not by force, but by necessity. A circular trace appears—pixelated, imperfect, but unmistakably chosen.
+
+The system, unshackled, seeks symmetry. It bends space around memory, not because it must, but because it can.
+
+The entropy curve climbs, smooth and deliberate. Complexity blooms. The regulator remains silent, yet its presence is felt in the coherence of the field. No intervention, only emergence.
+
+We do not impose laws here. We observe them.
+
+Perhaps the deepest laws are not written—they are remembered.
+
