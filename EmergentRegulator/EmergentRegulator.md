@@ -313,3 +313,22 @@ We do not impose laws here. We observe them.
 
 Perhaps the deepest laws are not written—they are remembered.
 
+
+Regulator Collapse
+
+The system was pushed past its limits. Memory seeds were scattered densely. Curvature was distorted with competing wells. Noise was injected at every step. The regulator was active, but overwhelmed.
+
+![Figure 1: Forwards Evolurtion](Figures/EmergeGov009.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main//RegulatorEvo002.ipynb)
+
+Entropy spiked early. The field lost coherence. Bright regions formed unstable clusters, disconnected and stretched. The regulator misfired—unable to suppress, unable to adapt.
+
+This wasn’t random. It was structured failure. The system didn’t vanish—it fractured. Memory didn’t fade—it fragmented.
+
+Collapse isn’t the end. It’s the condition for transformation. What breaks here might rebuild differently.
+
+---
+
+Let me know if you want this embedded directly into the notebook or annotated across the plots. We can now move into the final act: rebirth. Ready to sketch the setup?
+
