@@ -110,3 +110,39 @@ Curvature doesn’t just resist entropy—it repairs it. The stronger the curvat
 🖋️ Narrative Summary
 
 “We ran the system forward into noise, then reversed it through curved space.In flat space, memory failed. But in curved space, something held.The stronger the curvature, the smaller the deviation. Geometry didn’t just resist entropy—it repaired it.In the HES framework, curvature is more than shape—it’s memory made visible.”
+
+Section 4: Memory Anchors — Multi-Well Curvature Fields
+
+🎯 Objective
+
+To test whether localized curvature wells act as memory anchors—zones where entropy is suppressed and reversibility is enhanced. This expands the regulator’s role from global constraint to distributed coherence.
+
+---
+
+⚙️ Method
+
+We constructed a curvature field with three Gaussian wells of varying strength and width. Each well represents a localized zone of constraint. A structured velocity field was evolved forward under curvature-modulated noise, then reversed using the same noise sequence. Reversibility error was measured locally around each well.
+
+---
+
+![Figure 1: Forwards Evolurtion](Figures/EmergeGov004.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/EmergentRegulator004.ipynb)
+
+📊 Results
+
+• The curvature field revealed three distinct wells—each a valley of constraint.
+• Reversibility errors were lowest near the strongest well.
+• All wells showed enhanced memory retention compared to surrounding flat regions.
+
+
+---
+
+🧠 Interpretation
+
+Curvature doesn’t need to be global to regulate entropy. It can be planted, like seeds of memory. Each well acts as a local scaffold, preserving coherence in its vicinity. The stronger the curvature, the tighter the memory grip.
+
+This marks a shift in the regulator’s behavior:
+
+• From resisting entropy globally
+• To anchoring memory locally
