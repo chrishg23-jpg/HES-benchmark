@@ -2,7 +2,7 @@ Curvature-Memory Coupling
 
 To explore whether geometry influences reconstructability, we evolved a structured velocity field through a spatial domain with variable curvature. The curvature field, shaped as a Gaussian basin, modulated the strength of stochastic noise—suppressing decoherence in regions of high curvature.
 
-![Figure 1: Forwards Evolurtion](Figures/CurvatureMemory001.png)
+![Figure 1: Forwards Evolurtion](Figures/CurveMemory001.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Curvature_Memory.ipynb)
 
