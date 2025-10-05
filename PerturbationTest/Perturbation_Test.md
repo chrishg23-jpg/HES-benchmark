@@ -15,7 +15,7 @@ Storm Quadrant: Quantifying the Breakdown
 
 In the initial test, a gust of noise disrupted the forward trajectory. The reverse run, unaware of the perturbation, failed to reconstruct the past. Now, we quantify that breakdown.
 
-![Figure 1: Forwards Evolurtion](Figures/Time002.png)
+![Figure 1: Forwards Evolurtion](Figures/Pert002.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Times_Arrow.ipynb)
 
