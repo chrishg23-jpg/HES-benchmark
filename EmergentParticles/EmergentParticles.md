@@ -67,3 +67,22 @@ To test the system’s response to motion and asymmetry, we introduce Drifter01,
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles003.ipynb)
 
 Together, AnchorX and Drifter01 represent the first differentiated entities within the HES system—one static, one dynamic—each contributing to the co-evolution of structure and law.
+
+---
+
+Interaction and Feedback
+
+With static and migratory particles established, the HES framework enters a new phase: interaction. Entities begin to influence one another, triggering local collapse, memory shifts, and emergent constraints. The system no longer evolves in isolation—it responds.
+
+Regulator01 is introduced as a reactive zone within the lattice. When Drifter01 enters its proximity, the regulator collapses—modifying Drifter01’s velocity and deactivating itself. This marks the first instance of feedback: particle motion triggering structural change. The system begins to rewrite its own behavior in response to interaction.
+
+The collapse is not a hard-coded rule—it is a consequence of internal thresholds. The system demonstrates that structure and law are not static; they are co-authored by motion and proximity.
+
+---
+
+![Figure 1: Forwards Evolurtion](Figures/Particle004.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles004.ipynb)
+
+Figure: Feedback-Driven Collapse within the HES Framework
+Drifter01 (yellow) migrates through the lattice and enters the proximity of Regulator01 (magenta), triggering a collapse event. AnchorX (cyan) remains fixed, serving as a spatial reference. The system responds to motion with structural change, confirming that particles and laws co-evolve through internal dynamics.
