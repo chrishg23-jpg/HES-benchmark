@@ -420,3 +420,21 @@ System complexity increases. Interactions suggest convergence of memory, motion,
 Summary
 
 Act IX demonstrates the system’s response to dual perturbation and rising complexity. Key observations include regulator compression, echo shimmer under proximity, and AnchorX instability. No new entities emerged, but recursive behavior and codex looping were detected. These results suggest the system is capable of retaining and modulating memory under stress, with potential for emergent behavior in subsequent acts.
+
+Quantifying Memory Stability Across Recursive Perturbations
+
+---
+
+Abstracted Framing:
+
+This section investigates the resilience of a memory system subjected to iterative recall cycles with controlled noise injection. The objective is to quantify the degree to which entity states remain stable over time, using cosine similarity as a metric for fidelity. The experiment simulates recursive memory recall, where each cycle introduces stochastic perturbations, and evaluates the fraction of entities that maintain high similarity to their original state.
+
+![Figure 1: Memory Echoes](Figures/Particle010.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles010.ipynb)
+
+Key Observations:
+
+• Stability remains consistently high across all cycles, with minimal degradation.
+• The system demonstrates robust resistance to low-level noise, suggesting strong internal coherence.
+• Recursive feedback does not amplify error under current parameters, indicating potential for long-term memory retention in similar architectures.
