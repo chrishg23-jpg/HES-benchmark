@@ -351,6 +351,6 @@ Echoborn may represent a long-term memory trace or a residual state. Its persist
 
 Summary
 
-Act VIII demonstrates a complete and stable migration cycle. Drifter’s trajectory reliably triggers memory imprinting (Echo1, Echo2), regulator compression, and the emergence of Echoborn. The system retains memory entities post-motion, indicating a robust encoding mechanism.
+This simulation demonstrates a complete and stable migration cycle. Drifter’s trajectory reliably triggers memory imprinting (Echo1, Echo2), regulator compression, and the emergence of Echoborn. The system retains memory entities post-motion, indicating a robust encoding mechanism.
 
 
