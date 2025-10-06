@@ -30,5 +30,27 @@ We interpret the particle-like excitation as a performed memory—a rhythmic con
 
 The void curved. Rhythm condensed. And in the memory of that first breath, a particle was born.
 
+---
+
+AnchorX: A Reference Particle in the HES Framework
+
+AnchorX is introduced as a static particle within the 3D simulation space, positioned at the center of the lattice. Unlike regulators or memory wells, it does not exhibit motion or dynamic behavior. Its primary function is to serve as a reference point for observing system-wide interactions and emergent behaviors.
+
+By remaining fixed, AnchorX provides a stable coordinate against which the motion and influence of other particles can be measured. This allows for clearer analysis of:
+
+• Regulator reach and collapse thresholds
+• Memory well migration and retention
+• Symmetry tension and spatial drift
+
+![Figure 1: Forwards Evolurtion](Figures/Particle002.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles002.ipynb)
+
+
+
+AnchorX is not a source of force or memory—it is a passive observer embedded within the system. Its presence enables comparative analysis and helps validate the consistency of emergent laws across different simulation states.
+
+This particle marks the beginning of 3D integration within the HES framework, offering a baseline for future experiments involving mobile anchors, reactive regulators, and dynamic memory structures.
+
 
 
