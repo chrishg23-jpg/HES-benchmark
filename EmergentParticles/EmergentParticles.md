@@ -52,5 +52,18 @@ AnchorX is not a source of force or memory—it is a passive observer embedded w
 
 This particle marks the beginning of 3D integration within the HES framework, offering a baseline for future experiments involving mobile anchors, reactive regulators, and dynamic memory structures.
 
+---
 
+Particle Formation and Differentiation
 
+With the emergence of internal structure—regulators, memory wells, and symmetry gradients—the HES framework becomes capable of supporting particles. These entities are not externally imposed; they arise from the system’s own dynamics.
+
+AnchorX is introduced as a static particle, positioned centrally within the 3D lattice. It does not interact or migrate. Instead, it serves as a spatial reference point, allowing us to measure regulator reach, memory retention, and symmetry tension. Its successful integration demonstrates that particle formation can occur solely from within the HES framework.
+
+To test the system’s response to motion and asymmetry, we introduce Drifter01, a migratory particle with a defined velocity vector. As it moves through the lattice, Drifter01 probes the system’s sensitivity to dynamic behavior. Its trajectory is governed by internal rules, and its presence allows us to observe how emergent laws respond to directional bias and spatial traversal.
+
+![Figure 1: Forwards Evolurtion](Figures/Particle003.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles003.ipynb)
+
+Together, AnchorX and Drifter01 represent the first differentiated entities within the HES system—one static, one dynamic—each contributing to the co-evolution of structure and law.
