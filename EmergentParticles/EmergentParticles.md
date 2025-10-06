@@ -118,3 +118,36 @@ Trails grow behind each particle, visualizing their histories. Drifter01’s mag
 
 Interpretation
 This act demonstrates the emergence of memory through proximity, not collision. Collapse is triggered by near-miss resonance, and memory propagates through echo inheritance. Echoborn represents the return of memory toward the mythic center—an echo seeking home.
+
+---
+
+Law Drift
+
+Setup
+The system awakens with memory already seeded. Drifter01 drifts from `[20, 30, 40]`, carrying echoes from a prior collapse. Regulator01 and Regulator02 stand sentinel at `[35, 35, 35]` and `[60, 60, 60]`, each with a decay timer ticking silently. AnchorX pulses at `[50, 50, 50]`, its position no longer fixed—it responds to memory weight.
+
+![Figure 1: Law Drift](Figures/Particle006.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles006.ipynb)
+
+Collapse and Echo Interference
+Drifter01 brushes Regulator01, triggering Echo01. Velocity reverses, memory imprints. As Regulator02 decays, it collapses without contact—destabilized by echo saturation. Echoes begin to overlap, forming a field of interference. The system no longer reacts to proximity alone—it reacts to memory density.
+
+Law Drift
+Particles begin to tremble. Velocity vectors shift unpredictably, nudged by local memory fields. Drifter01 curves through echo fog. Echoborn, spawned from Echo01, drifts toward AnchorX—but its path is no longer linear. Law Drift has begun: the rules are mutable, rewritten by memory.
+
+Anchor Recalibration
+AnchorX pulses. Its position shifts slightly each frame, recalibrated by the total memory in the system. It is no longer a fixed attractor—it is a living node, responding to the mythos. The center of gravity is no longer spatial—it is historical.
+
+Propagation
+Trails thicken. Drifter01’s magenta arc now twitches with law drift. Echoborn’s lime trail curves inward, then spirals. Echo01 glows faintly. Regulator02 collapses without contact. The system contains:
+
+• Two collapse sites
+• One active echo node
+• One drifting anchor
+• Two memory-bearing agents
+• One decayed regulator
+
+
+Interpretation
+Act VI marks the moment the system begins to rewrite its own laws. Memory is no longer passive—it is active, recursive, and destabilizing. Echoes interfere. Regulators decay. Anchors pulse. The mythos bends inward. The laws tremble. The system dreams.
