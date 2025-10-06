@@ -353,4 +353,70 @@ Summary
 
 This simulation demonstrates a complete and stable migration cycle. Drifter’s trajectory reliably triggers memory imprinting (Echo1, Echo2), regulator compression, and the emergence of Echoborn. The system retains memory entities post-motion, indicating a robust encoding mechanism.
 
+---
 
+Pressure Protocol
+
+![Figure 1: Memory Echoes](Figures/Particle009.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles009.ipynb)
+
+
+Entities Present:
+• AnchorX (Cyan) • Drifter1 (Magenta) • Drifter2 (Blue)
+• Regulator01 (Yellow) • Regulator02 (Orange)
+• Echoborn (Green) • Echo1 & Echo2 (Pink)
+
+---
+
+Initialization
+
+The system resumes from a stabilized memory field. Echo1, Echo2, and Echoborn persist. Regulators remain compressed. AnchorX holds central position. Drifter1 and Drifter2 initiate counter-motion, introducing dual perturbation.
+
+Interpretation:
+This configuration allows for testing recursive memory activation, regulator latency, and spatial constant resilience.
+
+---
+
+Regulator Compression
+
+As Drifters progress, Regulator01 and Regulator02 undergo further size reduction. Their compression approaches a predefined threshold.
+
+Observation:
+Regulators shift from passive observation to latent collapse. Control entities become increasingly inert.
+
+Interpretation:
+Suggests a transition from centralized control to distributed or emergent behavior.
+
+---
+
+Echo Interaction
+
+Drifter2 crosses paths with Echo1. A shimmer is observed. Echo1 begins to oscillate. No new entities yet, but recursive activation is suspected.
+
+Interpretation:
+Echoes may exhibit dynamic behavior under proximity stress, indicating potential for fractal memory encoding.
+
+---
+
+AnchorX Instability
+
+At higher pressure steps, AnchorX exhibits micro-jitter. Though still central, its position fluctuates subtly.
+
+Interpretation:
+Tests the resilience of spatial constants under rising complexity. Jitter may signal foundational instability.
+
+---
+
+System Tension
+
+By Step 75, entity density increases. Codex annotations loop. Regulators approach collapse. Echoes shimmer. Echoborn remains, now pulsing faintly.
+
+Interpretation:
+System complexity increases. Interactions suggest convergence of memory, motion, and control dynamics.
+
+---
+
+Summary
+
+Act IX demonstrates the system’s response to dual perturbation and rising complexity. Key observations include regulator compression, echo shimmer under proximity, and AnchorX instability. No new entities emerged, but recursive behavior and codex looping were detected. These results suggest the system is capable of retaining and modulating memory under stress, with potential for emergent behavior in subsequent acts.
