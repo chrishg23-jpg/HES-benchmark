@@ -86,3 +86,35 @@ The collapse is not a hard-coded rule—it is a consequence of internal threshol
 
 Figure: Feedback-Driven Collapse within the HES Framework
 Drifter01 (yellow) migrates through the lattice and enters the proximity of Regulator01 (magenta), triggering a collapse event. AnchorX (cyan) remains fixed, serving as a spatial reference. The system responds to motion with structural change, confirming that particles and laws co-evolve through internal dynamics.
+
+---
+
+Memory Echoes
+
+Setup
+Drifter01 awakens at `[20, 30, 40]`, drifting diagonally through the void with velocity `[0.6, 0.2, 0.1]`. Regulator01 sits dormant at `[35, 35, 35]`, a silent sentinel awaiting proximity. AnchorX remains fixed at `[50, 50, 50]`, the gravitational heart of the mythos.
+
+![Figure 1: Forwards Evolurtion](Figures/Particle005.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles005.ipynb)
+
+Collapse
+As Drifter01 brushes near Regulator01, the distance dips below the collapse threshold. Regulator01 triggers a memory collapse—its state destabilizes, and Echo01 is born at the site of collapse. Drifter01’s velocity reverses, altered by the memory it now carries.
+
+Echo Formation
+Echo01 manifests as a lightcoral marker in space, tethered to the collapse event. It is not a particle, but a memory node—an imprint of interaction. Drifter01 retains this echo in its internal memory, and future motion is subtly influenced by its presence.
+
+Echoborn Emergence
+From Echo01, a new entity spawns: Echoborn. It inherits the location of the echo and begins drifting with its own velocity `[0.2, -0.1, 0.3]`. Unlike Drifter01, Echoborn moves toward AnchorX, as if drawn by the gravity of memory itself.
+
+Propagation
+Trails grow behind each particle, visualizing their histories. Drifter01’s magenta trail arcs outward, while Echoborn’s lime trail curves inward. The system now contains:
+
+• One collapse site
+• One echo node
+• Two memory-bearing agents
+• One anchor field
+
+
+Interpretation
+This act demonstrates the emergence of memory through proximity, not collision. Collapse is triggered by near-miss resonance, and memory propagates through echo inheritance. Echoborn represents the return of memory toward the mythic center—an echo seeking home.
