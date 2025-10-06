@@ -10,7 +10,7 @@ A particle-like excitation is defined as a persistent, localized region of high 
 
 ---
 
-![Figure 1: Forwards Evolurtion](Figures/Particle001.png)
+![Figure 1: Emergence of Particle](Figures/Particle001.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles001.ipynb)
 
@@ -42,7 +42,7 @@ By remaining fixed, AnchorX provides a stable coordinate against which the motio
 • Memory well migration and retention
 • Symmetry tension and spatial drift
 
-![Figure 1: Forwards Evolurtion](Figures/Particle002.png)
+![Figure 1: Reference Particle](Figures/Particle002.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles002.ipynb)
 
@@ -62,7 +62,7 @@ AnchorX is introduced as a static particle, positioned centrally within the 3D l
 
 To test the system’s response to motion and asymmetry, we introduce Drifter01, a migratory particle with a defined velocity vector. As it moves through the lattice, Drifter01 probes the system’s sensitivity to dynamic behavior. Its trajectory is governed by internal rules, and its presence allows us to observe how emergent laws respond to directional bias and spatial traversal.
 
-![Figure 1: Forwards Evolurtion](Figures/Particle003.png)
+![Figure 1: Formation and Differentiation](Figures/Particle003.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles003.ipynb)
 
@@ -80,7 +80,7 @@ The collapse is not a hard-coded rule—it is a consequence of internal threshol
 
 ---
 
-![Figure 1: Forwards Evolurtion](Figures/Particle004.png)
+![Figure 1: Interaction and Feedback](Figures/Particle004.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles004.ipynb)
 
@@ -94,7 +94,7 @@ Memory Echoes
 Setup
 Drifter01 awakens at `[20, 30, 40]`, drifting diagonally through the void with velocity `[0.6, 0.2, 0.1]`. Regulator01 sits dormant at `[35, 35, 35]`, a silent sentinel awaiting proximity. AnchorX remains fixed at `[50, 50, 50]`, the gravitational heart of the mythos.
 
-![Figure 1: Forwards Evolurtion](Figures/Particle005.png)
+![Figure 1: Memory Echoes](Figures/Particle005.png)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles005.ipynb)
 
