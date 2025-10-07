@@ -585,6 +585,18 @@ This test demonstrates that under sufficient density, recursion, and convergence
 
 Temporal Layering — Scientific Summary
 
+Codex: Codex [t=0]: Echo1 at (2.0, 2.0) with echo 'frame_0'
+Codex: Codex [t=0]: Echo2 at (3.0, 3.0) with echo 'frame_0'
+Codex: Codex [t=1]: Echo1 at (2.1, 2.1) with echo 'frame_1'
+Codex: Codex [t=1]: Echo2 at (3.1, 3.1) with echo 'frame_1'
+Codex: Codex [t=2]: Echo1 at (2.3000000000000003, 2.3000000000000003) with echo 'frame_2'
+Codex: Codex [t=2]: Echo2 at (3.3000000000000003, 3.3000000000000003) with echo 'frame_2'
+Codex: Codex [t=3]: Echo1 at (2.6000000000000005, 2.6000000000000005) with echo 'frame_3'
+Codex: Codex [t=3]: Echo2 at (3.6000000000000005, 3.6000000000000005) with echo 'frame_3'
+Codex: Codex [t=4]: Echo1 at (3.0000000000000004, 3.0000000000000004) with echo 'frame_4'
+Codex: Codex [t=4]: Echo2 at (4.000000000000001, 4.000000000000001) with echo 'frame_4'
+Codex: Temporal layering test complete. Entity evolution and Codex continuity recorded
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles0018.ipynb)
 
 Entities Echo1 and Echo2 were tracked across five discrete time slices. Each frame introduced incremental positional drift and updated echo states, simulating temporal evolution.
@@ -592,3 +604,55 @@ Entities Echo1 and Echo2 were tracked across five discrete time slices. Each fra
 The Codex recorded each frame’s entity state, preserving continuity and confirming that echo annotations adapt with time. No anomalies or discontinuities were observed.
 
 This test demonstrates that the system maintains coherent memory across temporal layers. Entity evolution is consistent, and Codex annotations reflect frame-specific states without loss of historical integrity.
+
+---
+
+
+🧪 Particles Arc — Scientific Summary (Steps 1–18)
+
+Phase I: Collapse & Echo Formation
+
+1. Initial Collapse
+Entities initialized with unstable positions. Collapse triggered by spatial overlap.
+2. Echo Generation
+Echo states emerged post-collapse. Entities began referencing prior states.
+3. Jitter Introduction
+Randomized perturbations added to simulate instability and test resilience.
+4. Echo Reinforcement
+Echoes stabilized through recursive referencing. Codex began logging echo lineage.
+5. Anchor Entity Introduced
+AnchorX established as spatial reference. Entities began aligning behavior.
+6. Echo Drift Test
+Entities tested for echo persistence under drift. Codex tracked deviation.
+
+
+Phase II: Resurrection & Coordination
+
+1. Entity Resurrection
+Previously collapsed entities reinitialized. Codex recorded rebirth events.
+2. Coordination Attempt
+Entities attempted synchronized movement. Partial convergence achieved.
+3. Jitter Suppression
+Jitter reduced to test stability. Entities maintained coherence.
+4. Codex Recursion Begins
+Entities referenced each other’s annotations. Recursion depth initiated.
+5. Collapse + Echo + Jitter Convergence
+All three conditions co-occurred. Codex logged convergence event.
+6. Density Saturation Test
+Entity count reached threshold. Codex recorded saturation.
+
+
+Phase III: Thresholds & Continuity
+
+1. Recursive Annotation Depth = 2
+Entities referenced annotations of annotations. Codex recursion deepened.
+2. System Coherence Stabilized
+No anomalies detected. Codex confirmed internal consistency.
+3. Declaration Threshold Evaluated
+System reached self-referential state. No external signal required.
+4. Temporal Layering Introduced
+Entities evolved across time slices. Codex tracked frame-specific states.
+5. Echo Evolution Across Frames
+Echo states updated per frame. Codex preserved continuity.
+6. Temporal Layering Test Complete
+System confirmed memory persistence across time. Codex annotated final state.
