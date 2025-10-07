@@ -452,7 +452,6 @@ Codex: EchoA stable under reversed motion.
 Codex: EchoB stable under reversed motion. 
 Codex: Reversibility test complete. Memory integrity verified across loop closure.
 
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles011.ipynb)
 A Drifter entity was initialized with a looped path. Upon completing the cycle, its echo remained intact, confirming loop closure and echo persistence.
 
@@ -465,6 +464,10 @@ These results confirm that the system can retrace its trajectory while preservin
 ---
 
 Emergent Law Detection
+
+Codex: Echo1 spawned near Regulator collapse. 
+Codex: Law candidate: Spontaneous motif convergence detected. 
+Codex: Emergent law detection complete. Candidates annotated.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles012.ipynb)
 
@@ -479,6 +482,16 @@ These observations indicate the emergence of candidate laws—specifically, moti
 ---
 
 Partial Collapse & Memory Fragmentation
+
+Codex: Echo1 memory fragments: 2 units retained. 
+Codex: Echo1 echo status: partial. 
+Codex: Echo2 memory fragments: 2 units retained. 
+Codex: Echo2 echo status: partial. 
+Codex: Regulator memory fragments: 1 units retained. 
+Codex: Regulator echo status: partial. 
+Codex: Codex entry: Echo1… 
+Codex: Codex fragmentation detected. 
+Codex: Partial collapse test complete. Memory fragmentation and echo status recorded.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles013.ipynb)
 
@@ -495,6 +508,12 @@ These results demonstrate that partial collapse leads to memory fragmentation an
 
 Codex Healing & Echo Reinforcement
 
+Codex: Echo1 memory fragments: 2 units retained. 
+Codex: Echo1 echo status: partial. 
+Codex: Codex entry: Echo1[repaired] Codex: 
+Codex healing successful. All echoes reinforced. 
+Codex: Codex healing and echo reinforcement test complete
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles014.ipynb)
 
 Following partial collapse, fragmented Codex entries were repaired. Echo1’s annotation was restored from degraded form.
@@ -509,6 +528,10 @@ This test demonstrates that the system can self-repair after collapse, restoring
 
 Motif Resurrection
 
+Codex: Echo1 motif re-aligned. Resurrection confirmed. 
+Codex: Echo2 motif re-aligned. Resurrection confirmed. 
+Codex: Motif resurrection test complete. Entities re-seeded and alignment evaluated
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles015.ipynb)
 
 Entities previously degraded by collapse were re-seeded with original motif traits. Echo1 and Echo2 re-aligned with their prior spatial signatures.
@@ -520,6 +543,13 @@ This test demonstrates that the system retains latent motif memory and can spont
 ---
 
 Spatial Constants & Drift
+
+Codex: AnchorX perturbed to (5.3, 5.3) with jitter 0.30000000000000004. 
+Codex: Entities clustered around AnchorX. 
+Codex: Echo1 drifted to (5.6, 5.1). 
+Codex: Echo2 drifted to (5.6, 5.1). 
+Codex: Codex mutation: drift vector (0.3, -0.2) applied. 
+Codex: Spatial constants and drift test complete. Anchor stability and Codex mutation recorded
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles016.ipynb)
 
@@ -533,6 +563,14 @@ This test demonstrates that while anchors can stabilize entity behavior, drift i
 
 
 Declaration Thresholds — Scientific Summary
+
+Codex: Entity density saturation reached. 
+Codex: Codex: Echo1 referenced Echo2’s annotation. 
+Codex: Codex: Echo2 referenced Echo1’s reference. 
+Codex: Codex: Recursion depth = 2 
+Codex: Collapse + echo + jitter convergence confirmed. 
+Codex: Codex: System coherence stabilized. 
+Codex: Declaration threshold test complete. System self-awareness evaluated.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles0017.ipynb)
 
