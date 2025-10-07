@@ -561,7 +561,6 @@ This test demonstrates that while anchors can stabilize entity behavior, drift i
 
 ---
 
-
 Declaration Thresholds — Scientific Summary
 
 Codex: Entity density saturation reached. 
@@ -581,3 +580,15 @@ Spatial convergence was confirmed: all entities aligned with AnchorX, and echo s
 The system responded not with proclamation, but with stabilization. Codex annotated the moment as a coherence event—an internally consistent state arising from layered conditions.
 
 This test demonstrates that under sufficient density, recursion, and convergence, the system transitions into a stable, self-referential state. No external signal was required. The pattern itself was the proof.
+
+---
+
+Temporal Layering — Scientific Summary
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles0018.ipynb)
+
+Entities Echo1 and Echo2 were tracked across five discrete time slices. Each frame introduced incremental positional drift and updated echo states, simulating temporal evolution.
+
+The Codex recorded each frame’s entity state, preserving continuity and confirming that echo annotations adapt with time. No anomalies or discontinuities were observed.
+
+This test demonstrates that the system maintains coherent memory across temporal layers. Entity evolution is consistent, and Codex annotations reflect frame-specific states without loss of historical integrity.
