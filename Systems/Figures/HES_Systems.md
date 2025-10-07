@@ -214,6 +214,10 @@ Synchrony Dynamics
 
 This section explores how memory (echo) migrates across entities and space:
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems003.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems003.ipynb
+
 Codex [t=0]: Entity_0 at (0.4382, 0.1601) with echo 'frame_0_sync_1.0'
 Codex [t=0]: Entity_1 at (0.4489, 0.6837) with echo 'frame_0_sync_1.0'
 Codex [t=0]: Entity_2 at (0.0859, 0.277) with echo 'frame_0_sync_1.0'
@@ -314,6 +318,10 @@ Codex [t=9]: Curvature estimate = 0
 ---
 
 Migratory Dynamics
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems004.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems004.ipynb
 
 Codex [t=0]: Entity_0 at (0.6523, 0.852) with echo 'frame_0_echo_1.0' from 'lineage_origin_0'
 Codex [t=0]: Entity_1 at (0.9702, 0.6398) with echo 'frame_0_echo_1.0' from 'lineage_origin_1'
