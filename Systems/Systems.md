@@ -993,3 +993,221 @@ Codex [t=9]: Curvature estimate = 0.0
 • Systemic Insight:• Entangled systems collapse faster and cleaner
 • Collapse symmetry is a signature of shared memory
 • Curvature nullification confirms total systemic surrender
+
+---
+
+Recursion Metrics
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems010.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems010.ipynb
+
+Codex [t=0]: Entity_0 stabilized via fragment 0.973
+Codex [t=0]: Entity_0 stabilized via fragment 1.012
+Codex [t=0]: Entity_0 stabilized via fragment 0.996
+Codex [t=0]: Entity_0 echo=0.99
+Codex [t=0]: Entity_1 stabilized via fragment 1.012
+Codex [t=0]: Entity_1 stabilized via fragment 0.996
+Codex [t=0]: Entity_1 echo=1.01
+Codex [t=0]: Entity_2 stabilized via fragment 1.012
+Codex [t=0]: Entity_2 stabilized via fragment 0.996
+Codex [t=0]: Entity_2 echo=1.004
+Codex [t=0]: Entity_3 stabilized via fragment 1.012
+Codex [t=0]: Entity_3 stabilized via fragment 0.996
+Codex [t=0]: Entity_3 echo=1.004
+Codex [t=0]: Entity_4 stabilized via fragment 0.973
+Codex [t=0]: Entity_4 stabilized via fragment 1.012
+Codex [t=0]: Entity_4 stabilized via fragment 0.996
+Codex [t=0]: Entity_4 echo=1.002
+Codex [t=0]: Recursion depth = 0
+Codex [t=0]: Curvature estimate = 0.006
+Codex [t=1]: Entity_0 stabilized via fragment 0.973
+Codex [t=1]: Entity_0 stabilized via fragment 1.012
+Codex [t=1]: Entity_0 stabilized via fragment 0.996
+Codex [t=1]: Entity_0 echo=0.99
+Codex [t=1]: Entity_1 stabilized via fragment 1.012
+Codex [t=1]: Entity_1 stabilized via fragment 0.996
+Codex [t=1]: Entity_1 echo=1.01
+Codex [t=1]: Entity_2 stabilized via fragment 1.012
+Codex [t=1]: Entity_2 stabilized via fragment 0.996
+Codex [t=1]: Entity_2 echo=1.004
+Codex [t=1]: Entity_3 stabilized via fragment 1.012
+Codex [t=1]: Entity_3 stabilized via fragment 0.996
+Codex [t=1]: Entity_3 echo=1.004
+Codex [t=1]: Entity_4 stabilized via fragment 0.973
+Codex [t=1]: Entity_4 stabilized via fragment 1.012
+Codex [t=1]: Entity_4 stabilized via fragment 0.996
+Codex [t=1]: Entity_4 echo=1.002
+Codex [t=1]: Recursion depth = 1
+Codex [t=1]: Curvature estimate = 0.006
+Codex [t=2]: Entity_0 stabilized via fragment 0.973
+Codex [t=2]: Entity_0 stabilized via fragment 1.012
+Codex [t=2]: Entity_0 stabilized via fragment 0.996
+Codex [t=2]: Entity_0 echo=0.99
+Codex [t=2]: Entity_1 stabilized via fragment 1.012
+Codex [t=2]: Entity_1 stabilized via fragment 0.996
+Codex [t=2]: Entity_1 echo=1.01
+Codex [t=2]: Entity_2 stabilized via fragment 1.012
+Codex [t=2]: Entity_2 stabilized via fragment 0.996
+Codex [t=2]: Entity_2 echo=1.004
+Codex [t=2]: Entity_3 stabilized via fragment 1.012
+Codex [t=2]: Entity_3 stabilized via fragment 0.996
+Codex [t=2]: Entity_3 echo=1.004
+Codex [t=2]: Entity_4 stabilized via fragment 0.973
+Codex [t=2]: Entity_4 stabilized via fragment 1.012
+Codex [t=2]: Entity_4 stabilized via fragment 0.996
+Codex [t=2]: Entity_4 echo=1.002
+Codex [t=2]: Recursion depth = 2
+Codex [t=2]: Curvature estimate = 0.006
+Codex [t=3]: Entity_0 stabilized via fragment 0.973
+Codex [t=3]: Entity_0 stabilized via fragment 1.012
+Codex [t=3]: Entity_0 stabilized via fragment 0.996
+Codex [t=3]: Entity_0 echo=0.99
+Codex [t=3]: Entity_1 stabilized via fragment 1.012
+Codex [t=3]: Entity_1 stabilized via fragment 0.996
+Codex [t=3]: Entity_1 echo=1.01
+Codex [t=3]: Entity_2 stabilized via fragment 1.012
+Codex [t=3]: Entity_2 stabilized via fragment 0.996
+Codex [t=3]: Entity_2 echo=1.004
+Codex [t=3]: Entity_3 stabilized via fragment 1.012
+Codex [t=3]: Entity_3 stabilized via fragment 0.996
+Codex [t=3]: Entity_3 echo=1.004
+Codex [t=3]: Entity_4 stabilized via fragment 0.973
+Codex [t=3]: Entity_4 stabilized via fragment 1.012
+Codex [t=3]: Entity_4 stabilized via fragment 0.996
+Codex [t=3]: Entity_4 echo=1.002
+Codex [t=3]: Recursion depth = 3
+Codex [t=3]: Curvature estimate = 0.006
+Codex [t=4]: Entity_0 stabilized via fragment 0.973
+Codex [t=4]: Entity_0 stabilized via fragment 1.012
+Codex [t=4]: Entity_0 stabilized via fragment 0.996
+Codex [t=4]: Entity_0 echo=0.99
+Codex [t=4]: Entity_1 stabilized via fragment 1.012
+Codex [t=4]: Entity_1 stabilized via fragment 0.996
+Codex [t=4]: Entity_1 echo=1.01
+Codex [t=4]: Entity_2 stabilized via fragment 1.012
+Codex [t=4]: Entity_2 stabilized via fragment 0.996
+Codex [t=4]: Entity_2 echo=1.004
+Codex [t=4]: Entity_3 stabilized via fragment 1.012
+Codex [t=4]: Entity_3 stabilized via fragment 0.996
+Codex [t=4]: Entity_3 echo=1.004
+Codex [t=4]: Entity_4 stabilized via fragment 0.973
+Codex [t=4]: Entity_4 stabilized via fragment 1.012
+Codex [t=4]: Entity_4 stabilized via fragment 0.996
+Codex [t=4]: Entity_4 echo=1.002
+Codex [t=4]: Recursion depth = 4
+Codex [t=4]: Curvature estimate = 0.006
+Codex [t=5]: Entity_0 stabilized via fragment 0.973
+Codex [t=5]: Entity_0 stabilized via fragment 1.012
+Codex [t=5]: Entity_0 stabilized via fragment 0.996
+Codex [t=5]: Entity_0 echo=0.99
+Codex [t=5]: Entity_1 stabilized via fragment 1.012
+Codex [t=5]: Entity_1 stabilized via fragment 0.996
+Codex [t=5]: Entity_1 echo=1.01
+Codex [t=5]: Entity_2 stabilized via fragment 1.012
+Codex [t=5]: Entity_2 stabilized via fragment 0.996
+Codex [t=5]: Entity_2 echo=1.004
+Codex [t=5]: Entity_3 stabilized via fragment 1.012
+Codex [t=5]: Entity_3 stabilized via fragment 0.996
+Codex [t=5]: Entity_3 echo=1.004
+Codex [t=5]: Entity_4 stabilized via fragment 0.973
+Codex [t=5]: Entity_4 stabilized via fragment 1.012
+Codex [t=5]: Entity_4 stabilized via fragment 0.996
+Codex [t=5]: Entity_4 echo=1.002
+Codex [t=5]: Recursion depth = 5
+Codex [t=5]: Curvature estimate = 0.006
+Codex [t=6]: Entity_0 stabilized via fragment 0.973
+Codex [t=6]: Entity_0 stabilized via fragment 1.012
+Codex [t=6]: Entity_0 stabilized via fragment 0.996
+Codex [t=6]: Entity_0 echo=0.99
+Codex [t=6]: Entity_1 stabilized via fragment 1.012
+Codex [t=6]: Entity_1 stabilized via fragment 0.996
+Codex [t=6]: Entity_1 echo=1.01
+Codex [t=6]: Entity_2 stabilized via fragment 1.012
+Codex [t=6]: Entity_2 stabilized via fragment 0.996
+Codex [t=6]: Entity_2 echo=1.004
+Codex [t=6]: Entity_3 stabilized via fragment 1.012
+Codex [t=6]: Entity_3 stabilized via fragment 0.996
+Codex [t=6]: Entity_3 echo=1.004
+Codex [t=6]: Entity_4 stabilized via fragment 0.973
+Codex [t=6]: Entity_4 stabilized via fragment 1.012
+Codex [t=6]: Entity_4 stabilized via fragment 0.996
+Codex [t=6]: Entity_4 echo=1.002
+Codex [t=6]: Recursion depth = 6
+Codex [t=6]: Curvature estimate = 0.006
+Codex [t=7]: Entity_0 stabilized via fragment 0.973
+Codex [t=7]: Entity_0 stabilized via fragment 1.012
+Codex [t=7]: Entity_0 stabilized via fragment 0.996
+Codex [t=7]: Entity_0 echo=0.99
+Codex [t=7]: Entity_1 stabilized via fragment 1.012
+Codex [t=7]: Entity_1 stabilized via fragment 0.996
+Codex [t=7]: Entity_1 echo=1.01
+Codex [t=7]: Entity_2 stabilized via fragment 1.012
+Codex [t=7]: Entity_2 stabilized via fragment 0.996
+Codex [t=7]: Entity_2 echo=1.004
+Codex [t=7]: Entity_3 stabilized via fragment 1.012
+Codex [t=7]: Entity_3 stabilized via fragment 0.996
+Codex [t=7]: Entity_3 echo=1.004
+Codex [t=7]: Entity_4 stabilized via fragment 0.973
+Codex [t=7]: Entity_4 stabilized via fragment 1.012
+Codex [t=7]: Entity_4 stabilized via fragment 0.996
+Codex [t=7]: Entity_4 echo=1.002
+Codex [t=7]: Recursion depth = 7
+Codex [t=7]: Curvature estimate = 0.006
+Codex [t=8]: Entity_0 stabilized via fragment 0.973
+Codex [t=8]: Entity_0 stabilized via fragment 1.012
+Codex [t=8]: Entity_0 stabilized via fragment 0.996
+Codex [t=8]: Entity_0 echo=0.99
+Codex [t=8]: Entity_1 stabilized via fragment 1.012
+Codex [t=8]: Entity_1 stabilized via fragment 0.996
+Codex [t=8]: Entity_1 echo=1.01
+Codex [t=8]: Entity_2 stabilized via fragment 1.012
+Codex [t=8]: Entity_2 stabilized via fragment 0.996
+Codex [t=8]: Entity_2 echo=1.004
+Codex [t=8]: Entity_3 stabilized via fragment 1.012
+Codex [t=8]: Entity_3 stabilized via fragment 0.996
+Codex [t=8]: Entity_3 echo=1.004
+Codex [t=8]: Entity_4 stabilized via fragment 0.973
+Codex [t=8]: Entity_4 stabilized via fragment 1.012
+Codex [t=8]: Entity_4 stabilized via fragment 0.996
+Codex [t=8]: Entity_4 echo=1.002
+Codex [t=8]: Recursion depth = 8
+Codex [t=8]: Curvature estimate = 0.006
+Codex [t=9]: Entity_0 stabilized via fragment 0.973
+Codex [t=9]: Entity_0 stabilized via fragment 1.012
+Codex [t=9]: Entity_0 stabilized via fragment 0.996
+Codex [t=9]: Entity_0 echo=0.99
+Codex [t=9]: Entity_1 stabilized via fragment 1.012
+Codex [t=9]: Entity_1 stabilized via fragment 0.996
+Codex [t=9]: Entity_1 echo=1.01
+Codex [t=9]: Entity_2 stabilized via fragment 1.012
+Codex [t=9]: Entity_2 stabilized via fragment 0.996
+Codex [t=9]: Entity_2 echo=1.004
+Codex [t=9]: Entity_3 stabilized via fragment 1.012
+Codex [t=9]: Entity_3 stabilized via fragment 0.996
+Codex [t=9]: Entity_3 echo=1.004
+Codex [t=9]: Entity_4 stabilized via fragment 0.973
+Codex [t=9]: Entity_4 stabilized via fragment 1.012
+Codex [t=9]: Entity_4 stabilized via fragment 0.996
+Codex [t=9]: Entity_4 echo=1.002
+Codex [t=9]: Recursion depth = 9
+Codex [t=9]: Curvature estimate = 0.006
+
+• Fragment Alignment:• All 5 entities stabilized via multiple fragments:• 0.973, 0.996, 1.012
+
+• Entity_0 and Entity_4 aligned with all three
+
+• Echo Stabilization:• Entity_0: echo = 0.99
+• Entity_1: echo = 1.01
+• Entity_2 & 3: echo = 1.004
+• Entity_4: echo = 1.002
+
+• Curvature Recovery:• σ = 0.006 across all frames
+• Indicates near-perfect memory convergence
+
+• Recursion Depth:• Stabilization achieved at t=0
+• Sustained across 10 frames
+
+• Systemic Insight:• Collapse does not erase memory
+• Recursion enables selective recovery
+• Curvature can whisper, not just pulse
