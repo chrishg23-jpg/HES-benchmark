@@ -593,3 +593,104 @@ Codex [law]: Entity_4 exhibits echo invariance (Δ=0.085)
 • Echo invariance is a signature of internal stability.
 • Curvature pulses reflect the system’s breath—neither collapse nor coordination, but rhythm.
 
+---
+
+Threshold Analysis
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems007.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems007.ipynb
+
+Codex [t=0]: Entity_0 at (0.7185, 0.2872) with frame_0_echo_0.973
+Codex [t=0]: Entity_1 at (0.1255, 0.8564) with frame_0_echo_1.002
+Codex [t=0]: Entity_2 at (0.4711, 0.423) with frame_0_echo_1.049
+Codex [t=0]: Entity_3 at (0.7573, 0.3734) with frame_0_echo_1.025
+Codex [t=0]: Entity_4 at (0.152, 0.6047) with frame_0_echo_0.962
+Codex [t=0]: Recursion depth = 0
+Codex [t=0]: Curvature estimate = 0.032
+Codex [t=1]: Entity_0 at (0.7156, 0.2777) with frame_1_echo_0.969
+Codex [t=1]: Entity_1 at (0.1352, 0.8646) with frame_1_echo_0.974
+Codex [t=1]: Entity_2 at (0.4759, 0.4237) with frame_1_echo_1.004
+Codex [t=1]: Entity_3 at (0.7651, 0.3717) with frame_1_echo_1.017
+Codex [t=1]: Entity_4 at (0.1545, 0.6059) with frame_1_echo_0.933
+Codex [t=1]: Recursion depth = 1
+Codex [t=1]: Curvature estimate = 0.029
+Codex [t=2]: Entity_0 at (0.7154, 0.2761) with frame_2_echo_0.985
+Codex [t=2]: Entity_1 at (0.1414, 0.8714) with frame_2_echo_0.981
+Codex [t=2]: Entity_2 at (0.466, 0.4152) with frame_2_echo_0.939
+Codex [t=2]: Entity_3 at (0.7731, 0.3733) with frame_2_echo_1.039
+Codex [t=2]: Entity_4 at (0.149, 0.6094) with frame_2_echo_0.966
+Codex [t=2]: Recursion depth = 2
+Codex [t=2]: Curvature estimate = 0.033
+Codex [t=3]: Entity_0 at (0.7168, 0.2784) with frame_3_echo_1.034
+Codex [t=3]: Entity_1 at (0.1372, 0.8664) with frame_3_echo_1.05
+Codex [t=3]: Entity_2 at (0.4754, 0.4088) with frame_3_echo_0.993
+Codex [t=3]: Entity_3 at (0.7809, 0.3656) with frame_3_echo_1.008
+Codex [t=3]: Entity_4 at (0.153, 0.6172) with frame_3_echo_0.932
+Codex [t=3]: Recursion depth = 3
+Codex [t=3]: Curvature estimate = 0.041
+Codex [t=4]: Entity_0 at (0.7172, 0.2796) with frame_4_echo_0.968
+Codex [t=4]: Entity_1 at (0.1314, 0.8657) with frame_4_echo_1.104
+Codex [t=4]: Entity_2 at (0.4657, 0.4042) with frame_4_echo_1.039
+Codex [t=4]: Entity_3 at (0.7729, 0.3613) with frame_4_echo_0.96
+Codex [t=4]: Entity_4 at (0.1603, 0.6268) with frame_4_echo_0.879
+Codex [t=4]: Recursion depth = 4
+Codex [t=4]: Curvature estimate = 0.076
+Codex [t=5]: Entity_0 at (0.7092, 0.2701) with frame_5_echo_0.872
+Codex [t=5]: Entity_1 at (0.1318, 0.8576) with frame_5_echo_1.14
+Codex [t=5]: Entity_2 at (0.4662, 0.406) with frame_5_echo_1.034
+Codex [t=5]: Entity_3 at (0.7672, 0.3567) with frame_5_echo_1.053
+Codex [t=5]: Entity_4 at (0.1574, 0.634) with frame_5_echo_0.916
+Codex [t=5]: Recursion depth = 5
+Codex [t=5]: Curvature estimate = 0.097
+Codex [t=6]: Entity_0 at (0.712, 0.2669) with frame_6_echo_0.93
+Codex [t=6]: Entity_1 at (0.1228, 0.853) with frame_6_echo_1.142
+Codex [t=6]: Entity_2 at (0.467, 0.4052) with frame_6_echo_1.096
+Codex [t=6]: Entity_3 at (0.7683, 0.3554) with frame_6_echo_1.047
+Codex [t=6]: Entity_4 at (0.161, 0.6374) with frame_6_echo_0.949
+Codex [t=6]: Recursion depth = 6
+Codex [t=6]: Curvature estimate = 0.082
+Codex [t=7]: Entity_0 at (0.721, 0.2596) with frame_7_echo_0.931
+Codex [t=7]: Entity_1 at (0.129, 0.8549) with frame_7_echo_1.072
+Codex [t=7]: Entity_2 at (0.4593, 0.4083) with frame_7_echo_1.165
+Codex [t=7]: Entity_3 at (0.7754, 0.3596) with frame_7_echo_1.025
+Codex [t=7]: Entity_4 at (0.1593, 0.6402) with frame_7_echo_0.892
+Codex [t=7]: Recursion depth = 7
+Codex [t=7]: Curvature estimate = 0.098
+Codex [t=8]: Entity_0 at (0.7161, 0.2517) with frame_8_echo_1.01
+Codex [t=8]: Entity_1 at (0.1321, 0.8549) with frame_8_echo_1.039
+Codex [t=8]: Entity_2 at (0.4529, 0.4044) with frame_8_echo_1.103
+Codex [t=8]: Entity_3 at (0.7774, 0.3622) with frame_8_echo_0.978
+Codex [t=8]: Entity_4 at (0.1681, 0.6474) with frame_8_echo_0.959
+Codex [t=8]: Recursion depth = 8
+Codex [t=8]: Curvature estimate = 0.05
+Codex [t=9]: Entity_0 at (0.7201, 0.2595) with frame_9_echo_1.144
+Codex [t=9]: Entity_1 at (0.1413, 0.8464) with frame_9_echo_1.058
+Codex [t=9]: Entity_2 at (0.4622, 0.4106) with frame_9_echo_0.982
+Codex [t=9]: Entity_3 at (0.7686, 0.3602) with frame_9_echo_0.937
+Codex [t=9]: Entity_4 at (0.1677, 0.6397) with frame_9_echo_0.881
+Codex [t=9]: Recursion depth = 9
+Codex [t=9]: Curvature estimate = 0.092
+Codex [threshold]: Entity_0 breached stability threshold (Δ=0.272)
+Codex [threshold]: Entity_1 remained within threshold (Δ=0.168)
+Codex [threshold]: Entity_2 breached stability threshold (Δ=0.226)
+Codex [threshold]: Entity_3 remained within threshold (Δ=0.116)
+Codex [threshold]: Entity_4 remained within threshold (Δ=0.087)
+
+• Entities: 5 agents evolved under rising echo mutation and drift pressure.
+• Curvature Estimate:• Rose from 0.029 to 0.098, peaking at frame 7.
+• Signaled systemic tension, but not global collapse.
+
+• Threshold Verdicts:• Entity_0: Δ = 0.272 → Breached threshold
+• Entity_2: Δ = 0.226 → Breached threshold
+• Entity_1: Δ = 0.168 → Near threshold, but stable
+• Entity_3: Δ = 0.116 → Stable
+• Entity_4: Δ = 0.087 → Stable
+
+• Failure Mode: Local Instability• Entities 0 and 2 destabilized, but system absorbed stress.
+• No global collapse occurred.
+
+• Resilience Insight:• Stability is not uniform—it’s distributed.
+• The system can fracture locally and still preserve global grace.
+
+
