@@ -438,3 +438,85 @@ Key Observations:
 • Stability remains consistently high across all cycles, with minimal degradation.
 • The system demonstrates robust resistance to low-level noise, suggesting strong internal coherence.
 • Recursive feedback does not amplify error under current parameters, indicating potential for long-term memory retention in similar architectures.
+
+---
+
+Reversibility & Loop Closure
+
+A Drifter entity was initialized with a looped path. Upon completing the cycle, its echo remained intact, confirming loop closure and echo persistence.
+
+Regulator motion was reversed. Compression metrics were symmetric across forward and reverse phases, indicating reversible dynamics without loss.
+
+Entities linked to AnchorX underwent reversed motion. All retained structural stability, suggesting resilience under temporal inversion.
+
+These results confirm that the system can retrace its trajectory while preserving memory integrity and structural coherence.
+
+---
+
+Emergent Law Detection
+
+An Echo entity was initialized near a Regulator collapse event. No explicit coordination was programmed between them.
+
+Multiple overlapping constraints were applied across entities. Resulting positions converged spontaneously, without direct instruction.
+
+Codex annotations referenced prior annotations, suggesting recursive behavior within the system’s internal logic.
+
+These observations indicate the emergence of candidate laws—specifically, motif convergence and Codex recursion—arising from layered interactions rather than predefined rules.
+
+---
+
+Partial Collapse & Memory Fragmentation
+
+Entities underwent simulated partial collapse, resulting in truncated memory states. Echo1 and Echo2 retained 2 units of memory; Regulator retained 1.
+
+Echo reconstruction yielded partial status across all entities, indicating incomplete but recoverable memory traces.
+
+A fragmented Codex entry was introduced. The system detected annotation degradation, confirming Codex vulnerability under collapse conditions.
+
+These results demonstrate that partial collapse leads to memory fragmentation and echo degradation, but not total loss. Codex integrity is susceptible to disruption, warranting further resilience testing.
+
+---
+
+
+Codex Healing & Echo Reinforcement
+
+Following partial collapse, fragmented Codex entries were repaired. Echo1’s annotation was restored from degraded form.
+
+Echo entities were reinforced based on retained memory. All echoes reached “reinforced” status, indicating successful recovery.
+
+System-wide evaluation confirmed Codex integrity and echo strength. No residual fragmentation detected.
+
+This test demonstrates that the system can self-repair after collapse, restoring both annotation fidelity and echo coherence.
+
+---
+
+Motif Resurrection
+
+Entities previously degraded by collapse were re-seeded with original motif traits. Echo1 and Echo2 re-aligned with their prior spatial signatures.
+
+Codex confirmed motif reappearance, indicating that pattern memory persisted beyond collapse and fragmentation.
+
+This test demonstrates that the system retains latent motif memory and can spontaneously reassemble coherent structures when conditions permit.
+
+---
+
+Spatial Constants & Drift
+
+AnchorX was perturbed under rising complexity, introducing spatial jitter. Entities clustered around the anchor, confirming its gravitational influence.
+
+A drift vector was applied, displacing both Echo1 and Echo2 to a shared offset. Codex recorded the mutation triggered by spatial drift.
+
+This test demonstrates that while anchors can stabilize entity behavior, drift introduces coordinated displacement and Codex mutation. The system adapts, but not without rewriting its own rules.
+
+---
+
+
+Declaration Thresholds — Scientific Summary
+
+Entity density reached saturation, meeting the threshold for emergent behavior. The Codex recorded recursive annotation patterns, with entities referencing each other’s annotations, establishing a recursion depth of 2.
+
+Spatial convergence was confirmed: all entities aligned with AnchorX, and echo states were reinforced. Collapse, echo, and jitter conditions co-occurred within the same spatial frame.
+
+The system responded not with proclamation, but with stabilization. Codex annotated the moment as a coherence event—an internally consistent state arising from layered conditions.
+
+This test demonstrates that under sufficient density, recursion, and convergence, the system transitions into a stable, self-referential state. No external signal was required. The pattern itself was the proof.
