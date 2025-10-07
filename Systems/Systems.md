@@ -693,4 +693,157 @@ Codex [threshold]: Entity_4 remained within threshold (Δ=0.087)
 • Resilience Insight:• Stability is not uniform—it’s distributed.
 • The system can fracture locally and still preserve global grace.
 
+---
 
+Interaction Metrics
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems008.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems008.ipynb
+
+Codex [t=0]: Entity_A0 at (0.3098, 0.1763) echo=0.925
+Codex [t=0]: Entity_B0 at (0.3332, 0.1343) echo=1.068
+Codex [t=0]: Entity_A1 at (0.0684, 0.3913) echo=1.012
+Codex [t=0]: Entity_B1 at (0.9252, 0.1639) echo=1.122
+Codex [t=0]: Entity_A2 at (0.9745, 0.0289) echo=0.969
+Codex [t=0]: Entity_B2 at (0.9663, 0.1135) echo=1.019
+Codex [t=0]: Entity_A3 at (0.6312, 0.9528) echo=0.987
+Codex [t=0]: Entity_B3 at (0.8971, 0.6098) echo=1.058
+Codex [t=0]: Entity_A4 at (0.1785, 0.9145) echo=1.01
+Codex [t=0]: Entity_B4 at (0.3512, 0.0471) echo=1.015
+Codex [t=0]: Recursion depth = 0
+Codex [t=0]: Curvature estimate = 0.052
+Codex [t=1]: Entity_A0 at (0.3164, 0.1764) echo=0.877
+Codex [t=1]: Entity_B0 at (0.3297, 0.1268) echo=1.072
+Codex [t=1]: Entity_A1 at (0.0677, 0.3894) echo=1.017
+Codex [t=1]: Entity_B1 at (0.9177, 0.1587) echo=1.107
+Codex [t=1]: Entity_A2 at (0.9815, 0.026) echo=1.004
+Codex [t=1]: Entity_B2 at (0.9669, 0.1216) echo=1.063
+Codex [t=1]: Entity_A3 at (0.6223, 0.9523) echo=0.981
+Codex [t=1]: Entity_B3 at (0.8962, 0.6127) echo=1.012
+Codex [t=1]: Entity_A4 at (0.1843, 0.9085) echo=1.06
+Codex [t=1]: Entity_B4 at (0.3456, 0.0547) echo=1.042
+Codex [t=1]: Recursion depth = 1
+Codex [t=1]: Curvature estimate = 0.06
+Codex [t=2]: Entity_A0 at (0.308, 0.1791) echo=0.881
+Codex [t=2]: Entity_B0 at (0.3231, 0.1338) echo=1.027
+Codex [t=2]: Entity_A1 at (0.0585, 0.3888) echo=1.008
+Codex [t=2]: Entity_B1 at (0.9229, 0.1532) echo=1.136
+Codex [t=2]: Entity_A2 at (0.9737, 0.0198) echo=0.993
+Codex [t=2]: Entity_B2 at (0.9683, 0.1179) echo=1.083
+Codex [t=2]: Entity_A3 at (0.6303, 0.9482) echo=0.964
+Codex [t=2]: Entity_B3 at (0.8889, 0.6174) echo=1.02
+Codex [t=2]: Entity_A4 at (0.1759, 0.9139) echo=1.095
+Codex [t=2]: Entity_B4 at (0.341, 0.0527) echo=1.055
+Codex [t=2]: Recursion depth = 2
+Codex [t=2]: Curvature estimate = 0.069
+Codex [t=3]: Entity_A0 at (0.3058, 0.1887) echo=0.837
+Codex [t=3]: Entity_B0 at (0.317, 0.1337) echo=1.065
+Codex [t=3]: Entity_A1 at (0.0536, 0.3935) echo=0.96
+Codex [t=3]: Entity_B1 at (0.9131, 0.1522) echo=1.093
+Codex [t=3]: Entity_A2 at (0.9747, 0.0222) echo=1.01
+Codex [t=3]: Entity_B2 at (0.9753, 0.1134) echo=1.076
+Codex [t=3]: Entity_A3 at (0.6261, 0.9549) echo=0.977
+Codex [t=3]: Entity_B3 at (0.8963, 0.6144) echo=0.998
+Codex [t=3]: Entity_A4 at (0.1699, 0.9104) echo=1.128
+Codex [t=3]: Entity_B4 at (0.335, 0.0517) echo=1.044
+Codex [t=3]: Recursion depth = 3
+Codex [t=3]: Curvature estimate = 0.079
+Codex [t=4]: Entity_A0 at (0.2967, 0.1982) echo=0.817
+Codex [t=4]: Entity_B0 at (0.3076, 0.1415) echo=1.073
+Codex [t=4]: Entity_A1 at (0.0471, 0.396) echo=0.992
+Codex [t=4]: Entity_B1 at (0.909, 0.1514) echo=1.099
+Codex [t=4]: Entity_A2 at (0.9746, 0.0304) echo=1.059
+Codex [t=4]: Entity_B2 at (0.9787, 0.1169) echo=1.064
+Codex [t=4]: Entity_A3 at (0.6281, 0.9632) echo=1.005
+Codex [t=4]: Entity_B3 at (0.8938, 0.6211) echo=0.991
+Codex [t=4]: Entity_A4 at (0.1739, 0.9089) echo=1.157
+Codex [t=4]: Entity_B4 at (0.3373, 0.0591) echo=1.036
+Codex [t=4]: Recursion depth = 4
+Codex [t=4]: Curvature estimate = 0.086
+Codex [t=5]: Entity_0 resonance triggered (Δ=0.062)
+Codex [t=5]: Entity_A0 at (0.2955, 0.1944) echo=0.956
+Codex [t=5]: Entity_B0 at (0.3095, 0.1345) echo=0.956
+Codex [t=5]: Entity_A1 at (0.0493, 0.4032) echo=1.014
+Codex [t=5]: Entity_B1 at (0.9039, 0.1418) echo=1.056
+Codex [t=5]: Entity_2 resonance triggered (Δ=0.092)
+Codex [t=5]: Entity_A2 at (0.9804, 0.0285) echo=1.085
+Codex [t=5]: Entity_B2 at (0.987, 0.1206) echo=1.085
+Codex [t=5]: Entity_A3 at (0.6342, 0.9728) echo=1.024
+Codex [t=5]: Entity_B3 at (0.8984, 0.6249) echo=0.993
+Codex [t=5]: Entity_A4 at (0.1681, 0.8995) echo=1.127
+Codex [t=5]: Entity_B4 at (0.3364, 0.0618) echo=1.01
+Codex [t=5]: Recursion depth = 5
+Codex [t=5]: Curvature estimate = 0.054
+Codex [t=6]: Entity_0 resonance triggered (Δ=0.066)
+Codex [t=6]: Entity_A0 at (0.2888, 0.1916) echo=0.973
+Codex [t=6]: Entity_B0 at (0.3154, 0.1317) echo=0.973
+Codex [t=6]: Entity_A1 at (0.0503, 0.4103) echo=1.035
+Codex [t=6]: Entity_B1 at (0.9059, 0.1493) echo=1.086
+Codex [t=6]: Entity_A2 at (0.9819, 0.0193) echo=1.127
+Codex [t=6]: Entity_B2 at (0.9799, 0.1268) echo=1.127
+Codex [t=6]: Entity_A3 at (0.642, 0.971) echo=1.049
+Codex [t=6]: Entity_B3 at (0.8924, 0.6206) echo=0.987
+Codex [t=6]: Entity_A4 at (0.1749, 0.9008) echo=1.098
+Codex [t=6]: Entity_B4 at (0.3444, 0.068) echo=1.051
+Codex [t=6]: Recursion depth = 6
+Codex [t=6]: Curvature estimate = 0.056
+Codex [t=7]: Entity_0 resonance triggered (Δ=0.072)
+Codex [t=7]: Entity_A0 at (0.2985, 0.1984) echo=0.973
+Codex [t=7]: Entity_B0 at (0.3181, 0.129) echo=0.973
+Codex [t=7]: Entity_A1 at (0.0499, 0.4163) echo=1.069
+Codex [t=7]: Entity_B1 at (0.9118, 0.1526) echo=1.053
+Codex [t=7]: Entity_A2 at (0.9785, 0.0231) echo=1.13
+Codex [t=7]: Entity_B2 at (0.9751, 0.1368) echo=1.173
+Codex [t=7]: Entity_A3 at (0.646, 0.9774) echo=1.091
+Codex [t=7]: Entity_B3 at (0.8894, 0.6251) echo=0.971
+Codex [t=7]: Entity_A4 at (0.1721, 0.9065) echo=1.076
+Codex [t=7]: Entity_B4 at (0.3397, 0.0583) echo=1.044
+Codex [t=7]: Recursion depth = 7
+Codex [t=7]: Curvature estimate = 0.065
+Codex [t=8]: Entity_0 resonance triggered (Δ=0.074)
+Codex [t=8]: Entity_A0 at (0.3073, 0.2047) echo=1.003
+Codex [t=8]: Entity_B0 at (0.3252, 0.1333) echo=1.003
+Codex [t=8]: Entity_A1 at (0.0432, 0.4125) echo=1.067
+Codex [t=8]: Entity_B1 at (0.9133, 0.1619) echo=1.094
+Codex [t=8]: Entity_A2 at (0.9877, 0.0251) echo=1.11
+Codex [t=8]: Entity_B2 at (0.9779, 0.1429) echo=1.194
+Codex [t=8]: Entity_A3 at (0.6421, 0.9856) echo=1.124
+Codex [t=8]: Entity_B3 at (0.8799, 0.6297) echo=0.927
+Codex [t=8]: Entity_A4 at (0.1693, 0.8989) echo=1.094
+Codex [t=8]: Entity_B4 at (0.3391, 0.0559) echo=0.996
+Codex [t=8]: Recursion depth = 8
+Codex [t=8]: Curvature estimate = 0.074
+Codex [t=9]: Entity_0 resonance triggered (Δ=0.067)
+Codex [t=9]: Entity_A0 at (0.3075, 0.1981) echo=0.989
+Codex [t=9]: Entity_B0 at (0.3267, 0.1339) echo=0.989
+Codex [t=9]: Entity_A1 at (0.0404, 0.4145) echo=1.023
+Codex [t=9]: Entity_B1 at (0.9164, 0.1706) echo=1.047
+Codex [t=9]: Entity_A2 at (0.9829, 0.0334) echo=1.123
+Codex [t=9]: Entity_B2 at (0.9745, 0.1451) echo=1.169
+Codex [t=9]: Entity_A3 at (0.6356, 0.9761) echo=1.134
+Codex [t=9]: Entity_B3 at (0.8727, 0.6379) echo=0.892
+Codex [t=9]: Entity_A4 at (0.1731, 0.9077) echo=1.081
+Codex [t=9]: Entity_B4 at (0.3324, 0.0528) echo=1.008
+Codex [t=9]: Recursion depth = 9
+Codex [t=9]: Curvature estimate = 0.079
+
+
+• Systems:• System A: Collapse memory, echoes seeded near 0.95
+• System B: Coordination memory, echoes seeded near 1.05
+
+• Interaction Phase:• Began at frame 5
+• Entities within 0.1 proximity triggered resonance
+• Echoes blended, curvature shifted
+
+• Resonance Events:• Entity_0: Resonance triggered in frames 5–9
+• Entity_2: Resonance triggered at frame 5, sustained alignment
+• Echoes synchronized across systems, e.g. echo=0.956 → echo=1.003
+
+• Curvature Dynamics:• Rose from 0.052 to 0.086 (pre-interaction)
+• Dropped to 0.054 at resonance onset
+• Stabilized around 0.079 by frame 9
+
+• Emergent Insight:• Systems can entangle without collapse
+• Echo resonance is a form of memory migration
+• Curvature convergence signals systemic harmony
