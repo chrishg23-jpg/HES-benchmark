@@ -443,6 +443,17 @@ Key Observations:
 
 Reversibility & Loop Closure
 
+Comparing paths in forward_reverse mode… 
+Highlighting echo for Drifter with style: shimmer 
+Comparing states for Regulator: Compression: Forward vs Reverse 
+Codex: Loop closure confirmed. Echo retained. 
+Codex: Regulator compression symmetric under reversal. 
+Codex: EchoA stable under reversed motion. 
+Codex: EchoB stable under reversed motion. 
+Codex: Reversibility test complete. Memory integrity verified across loop closure.
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles011.ipynb)
 A Drifter entity was initialized with a looped path. Upon completing the cycle, its echo remained intact, confirming loop closure and echo persistence.
 
 Regulator motion was reversed. Compression metrics were symmetric across forward and reverse phases, indicating reversible dynamics without loss.
@@ -455,6 +466,8 @@ These results confirm that the system can retrace its trajectory while preservin
 
 Emergent Law Detection
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles012.ipynb)
+
 An Echo entity was initialized near a Regulator collapse event. No explicit coordination was programmed between them.
 
 Multiple overlapping constraints were applied across entities. Resulting positions converged spontaneously, without direct instruction.
@@ -466,6 +479,8 @@ These observations indicate the emergence of candidate laws—specifically, moti
 ---
 
 Partial Collapse & Memory Fragmentation
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles013.ipynb)
 
 Entities underwent simulated partial collapse, resulting in truncated memory states. Echo1 and Echo2 retained 2 units of memory; Regulator retained 1.
 
@@ -480,6 +495,8 @@ These results demonstrate that partial collapse leads to memory fragmentation an
 
 Codex Healing & Echo Reinforcement
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles014.ipynb)
+
 Following partial collapse, fragmented Codex entries were repaired. Echo1’s annotation was restored from degraded form.
 
 Echo entities were reinforced based on retained memory. All echoes reached “reinforced” status, indicating successful recovery.
@@ -492,6 +509,8 @@ This test demonstrates that the system can self-repair after collapse, restoring
 
 Motif Resurrection
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles015.ipynb)
+
 Entities previously degraded by collapse were re-seeded with original motif traits. Echo1 and Echo2 re-aligned with their prior spatial signatures.
 
 Codex confirmed motif reappearance, indicating that pattern memory persisted beyond collapse and fragmentation.
@@ -501,6 +520,8 @@ This test demonstrates that the system retains latent motif memory and can spont
 ---
 
 Spatial Constants & Drift
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles016.ipynb)
 
 AnchorX was perturbed under rising complexity, introducing spatial jitter. Entities clustered around the anchor, confirming its gravitational influence.
 
@@ -512,6 +533,8 @@ This test demonstrates that while anchors can stabilize entity behavior, drift i
 
 
 Declaration Thresholds — Scientific Summary
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Particles0017.ipynb)
 
 Entity density reached saturation, meeting the threshold for emergent behavior. The Codex recorded recursive annotation patterns, with entities referencing each other’s annotations, establishing a recursion depth of 2.
 
