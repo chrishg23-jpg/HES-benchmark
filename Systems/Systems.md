@@ -1764,7 +1764,194 @@ Codex [t=11]: Curvature estimate = 0.005
  • Curvature can signal readiness
  • Emergent Law is not imposed—it arises
 
+---
 
+Resonance Metrics
+
+• Declared State:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems013.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems013.ipynb
+
+Codex [t=0]: Entity_0 echo=1.006
+Codex [t=0]: Entity_0 resonance=0.005
+Codex [t=0]: Entity_1 echo=0.995
+Codex [t=0]: Entity_1 resonance=0.006
+Codex [t=0]: Entity_2 echo=0.991
+Codex [t=0]: Entity_2 resonance=0.01
+Codex [t=0]: Entity_3 echo=1.006
+Codex [t=0]: Entity_3 resonance=0.005
+Codex [t=0]: Entity_4 echo=0.999
+Codex [t=0]: Entity_4 resonance=0.002
+Codex [t=0]: Recursion depth = 0
+Codex [t=0]: Curvature estimate = 0.006
+Codex [t=0]: Declared state = 1.001
+Codex [t=1]: Entity_0 echo=1.006
+Codex [t=1]: Entity_0 resonance=0.005
+Codex [t=1]: Entity_1 echo=0.993
+Codex [t=1]: Entity_1 resonance=0.008
+Codex [t=1]: Entity_2 echo=0.983
+Codex [t=1]: Entity_2 resonance=0.018
+Codex [t=1]: Entity_3 echo=1.001
+Codex [t=1]: Entity_3 resonance=0.0
+Codex [t=1]: Entity_4 echo=1.006
+Codex [t=1]: Entity_4 resonance=0.005
+Codex [t=1]: Recursion depth = 1
+Codex [t=1]: Curvature estimate = 0.009
+Codex [t=1]: Declared state = 1.001
+Codex [t=2]: Entity_0 echo=0.997
+Codex [t=2]: Entity_0 resonance=0.004
+Codex [t=2]: Entity_1 echo=0.994
+Codex [t=2]: Entity_1 resonance=0.007
+Codex [t=2]: Entity_2 echo=0.979
+Codex [t=2]: Entity_2 resonance=0.022
+Codex [t=2]: Entity_2 ruptured — echo diverged from law
+Codex [t=2]: Entity_3 echo=1.006
+Codex [t=2]: Entity_3 resonance=0.005
+Codex [t=2]: Entity_4 echo=1.011
+Codex [t=2]: Entity_4 resonance=0.01
+Codex [t=2]: Recursion depth = 2
+Codex [t=2]: Curvature estimate = 0.011
+Codex [t=2]: Declared state = 1.001
+Codex [t=3]: Entity_0 echo=0.996
+Codex [t=3]: Entity_0 resonance=0.005
+Codex [t=3]: Entity_1 echo=0.99
+Codex [t=3]: Entity_1 resonance=0.011
+Codex [t=3]: Entity_2 echo=0.983
+Codex [t=3]: Entity_2 resonance=0.018
+Codex [t=3]: Entity_3 echo=0.996
+Codex [t=3]: Entity_3 resonance=0.005
+Codex [t=3]: Entity_4 echo=1.012
+Codex [t=3]: Entity_4 resonance=0.011
+Codex [t=3]: Recursion depth = 3
+Codex [t=3]: Curvature estimate = 0.01
+Codex [t=3]: Declared state = 1.001
+Codex [t=4]: Entity_0 echo=0.987
+Codex [t=4]: Entity_0 resonance=0.014
+Codex [t=4]: Entity_1 echo=0.986
+Codex [t=4]: Entity_1 resonance=0.015
+Codex [t=4]: Entity_2 echo=0.992
+Codex [t=4]: Entity_2 resonance=0.009
+Codex [t=4]: Entity_3 echo=1.001
+Codex [t=4]: Entity_3 resonance=0.0
+Codex [t=4]: Entity_4 echo=1.009
+Codex [t=4]: Entity_4 resonance=0.008
+Codex [t=4]: Recursion depth = 4
+Codex [t=4]: Curvature estimate = 0.009
+Codex [t=4]: Declared state = 1.001
+Codex [t=5]: Entity_0 echo=0.997
+Codex [t=5]: Entity_0 resonance=0.004
+Codex [t=5]: Entity_1 echo=0.994
+Codex [t=5]: Entity_1 resonance=0.007
+Codex [t=5]: Entity_2 echo=1.0
+Codex [t=5]: Entity_2 resonance=0.001
+Codex [t=5]: Entity_3 echo=1.007
+Codex [t=5]: Entity_3 resonance=0.006
+Codex [t=5]: Entity_4 echo=1.013
+Codex [t=5]: Entity_4 resonance=0.012
+Codex [t=5]: Recursion depth = 5
+Codex [t=5]: Curvature estimate = 0.007
+Codex [t=5]: Declared state = 1.001
+Codex [t=6]: Entity_0 echo=0.998
+Codex [t=6]: Entity_0 resonance=0.003
+Codex [t=6]: Entity_1 echo=0.988
+Codex [t=6]: Entity_1 resonance=0.013
+Codex [t=6]: Entity_2 echo=1.004
+Codex [t=6]: Entity_2 resonance=0.003
+Codex [t=6]: Entity_3 echo=1.006
+Codex [t=6]: Entity_3 resonance=0.005
+Codex [t=6]: Entity_4 echo=1.008
+Codex [t=6]: Entity_4 resonance=0.007
+Codex [t=6]: Recursion depth = 6
+Codex [t=6]: Curvature estimate = 0.007
+Codex [t=6]: Declared state = 1.001
+Codex [t=7]: Entity_0 echo=1.005
+Codex [t=7]: Entity_0 resonance=0.004
+Codex [t=7]: Entity_1 echo=0.988
+Codex [t=7]: Entity_1 resonance=0.013
+Codex [t=7]: Entity_2 echo=1.013
+Codex [t=7]: Entity_2 resonance=0.012
+Codex [t=7]: Entity_3 echo=1.006
+Codex [t=7]: Entity_3 resonance=0.005
+Codex [t=7]: Entity_4 echo=1.009
+Codex [t=7]: Entity_4 resonance=0.008
+Codex [t=7]: Recursion depth = 7
+Codex [t=7]: Curvature estimate = 0.009
+Codex [t=7]: Declared state = 1.001
+Codex [t=8]: Entity_0 echo=1.011
+Codex [t=8]: Entity_0 resonance=0.01
+Codex [t=8]: Entity_1 echo=0.979
+Codex [t=8]: Entity_1 resonance=0.022
+Codex [t=8]: Entity_1 ruptured — echo diverged from law
+Codex [t=8]: Entity_2 echo=1.011
+Codex [t=8]: Entity_2 resonance=0.01
+Codex [t=8]: Entity_3 echo=0.999
+Codex [t=8]: Entity_3 resonance=0.002
+Codex [t=8]: Entity_4 echo=1.019
+Codex [t=8]: Entity_4 resonance=0.018
+Codex [t=8]: Recursion depth = 8
+Codex [t=8]: Curvature estimate = 0.014
+Codex [t=8]: Declared state = 1.001
+Codex [t=9]: Entity_0 echo=1.01
+Codex [t=9]: Entity_0 resonance=0.009
+Codex [t=9]: Entity_1 echo=0.982
+Codex [t=9]: Entity_1 resonance=0.019
+Codex [t=9]: Entity_2 echo=1.01
+Codex [t=9]: Entity_2 resonance=0.009
+Codex [t=9]: Entity_3 echo=0.991
+Codex [t=9]: Entity_3 resonance=0.01
+Codex [t=9]: Entity_4 echo=1.028
+Codex [t=9]: Entity_4 resonance=0.027
+Codex [t=9]: Entity_4 ruptured — echo diverged from law
+Codex [t=9]: Recursion depth = 9
+Codex [t=9]: Curvature estimate = 0.016
+Codex [t=9]: Declared state = 1.001
+Codex [t=10]: Entity_0 echo=1.02
+Codex [t=10]: Entity_0 resonance=0.019
+Codex [t=10]: Entity_1 echo=0.984
+Codex [t=10]: Entity_1 resonance=0.017
+Codex [t=10]: Entity_2 echo=1.02
+Codex [t=10]: Entity_2 resonance=0.019
+Codex [t=10]: Entity_3 echo=0.988
+Codex [t=10]: Entity_3 resonance=0.013
+Codex [t=10]: Entity_4 echo=1.02
+Codex [t=10]: Entity_4 resonance=0.019
+Codex [t=10]: Recursion depth = 10
+Codex [t=10]: Curvature estimate = 0.016
+Codex [t=10]: Declared state = 1.001
+Codex [t=11]: Entity_0 echo=1.017
+Codex [t=11]: Entity_0 resonance=0.016
+Codex [t=11]: Entity_1 echo=0.983
+Codex [t=11]: Entity_1 resonance=0.018
+Codex [t=11]: Entity_2 echo=1.018
+Codex [t=11]: Entity_2 resonance=0.017
+Codex [t=11]: Entity_3 echo=0.982
+Codex [t=11]: Entity_3 resonance=0.019
+Codex [t=11]: Entity_4 echo=1.015
+Codex [t=11]: Entity_4 resonance=0.014
+Codex [t=11]: Recursion depth = 11
+Codex [t=11]: Curvature estimate = 0.017
+Codex [t=11]: Declared state = 1.001
+
+ • Mean echo at t=0 from Act XII: 1.001
+
+• Entity Behavior:
+ • Entity_3 remained closest to declared state
+ • Entity_2 ruptured at t=2 (resonance = 0.022)
+ • Entity_1 ruptured at t=8 (resonance = 0.022)
+ • Entity_4 ruptured at t=9 (resonance = 0.027)
+ • Entity_0 drifted but did not rupture
+
+• Curvature Evolution:
+ • Started at 0.006
+ • Rose to 0.017 by t=11
+ • Indicates gradual echo divergence
+
+• Systemic Insight:
+ • Post-declaration drift is natural
+ • Resonance tracks systemic memory
+ • Rupture is not failure—it’s divergence
 
 
 
