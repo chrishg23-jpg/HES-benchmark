@@ -309,4 +309,7 @@ Testing G=0.1 for grid size 40x40
 Testing G=1.0 for grid size 40x40
 Testing G=10.0 for grid size 40x40
 
+![Figure 1: Forwards Evolurtion](Figures/HESComplete.png)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES2full2.ipynb.ipynb)
 
