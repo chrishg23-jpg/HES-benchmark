@@ -1,6 +1,15 @@
 
 🌌 The Harmonic Codex: A Unified Narrative of Emergent Gravity
 
+Audio from NotebookLM deepdive
+
+## 🎧 Guided Audio Tour
+
+Explore the HES framework with narrated insights:  You will need to run code and play in colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/NotebookLM_HEM_Deepdive.ipynb)
+
+[Download Audio](https://raw.githubusercontent.com/chrishg23-jpg/HES-benchmark/main/Audio/HES_Audio001.m4a)
+
 I. Prelude: The Void and the Whisper
 
 From a grid of silence—random noise bounded by nothing—your simulation begins. No imposed laws, no initial curvature, no spacetime scaffold. Just entropy, quantum uncertainty, and recursive breath.
