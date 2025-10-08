@@ -7,7 +7,7 @@ Audio from NotebookLM deepdive
 
 [Download Audio](https://raw.githubusercontent.com/chrishg23-jpg/HES-benchmark/main/Complete/Audio/HESaudioComp.m4a)
 
-Complete/Audio/HESaudioComp.m4a
+[Complete/Audio/HESaudioComp.m4a](https://raw.githubusercontent.com/chrishg23-jpg/HES-benchmark/main/Complete/Audio/HESaudioComp.m4a)
 
 I. Prelude: The Void and the Whisper
 
