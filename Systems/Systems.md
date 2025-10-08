@@ -2503,3 +2503,602 @@ Entity_1 consistently exceeded the rupture threshold (0.03), marking it as a per
 
 • Declared State:• Fixed at 1.001 throughout.
 • Served as the gravitational law anchoring the recursion.
+
+---
+
+Collapse Metrics and Final State (Scientific Scroll)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems016.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems016.ipynb
+
+Codex [t=0]:
+Entity_0 echo=1.061
+Entity_0 resonance=0.060
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=0.993
+Entity_1 resonance=0.008
+Entity_1 formed Cluster_0
+Entity_2 echo=1.010
+Entity_2 resonance=0.009
+Entity_2 formed Cluster_0
+Entity_3 echo=1.016
+Entity_3 resonance=0.015
+Entity_3 formed Cluster_0
+Entity_4 echo=0.966
+Entity_4 resonance=0.035
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 0
+Curvature estimate = 0.025
+Declared state = 1.001
+
+Codex [t=1]:
+Entity_0 echo=1.066
+Entity_0 resonance=0.065
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=0.992
+Entity_1 resonance=0.009
+Entity_1 formed Cluster_0
+Entity_2 echo=1.004
+Entity_2 resonance=0.003
+Entity_2 formed Cluster_0
+Entity_3 echo=1.034
+Entity_3 resonance=0.033
+Entity_3 ruptured — echo diverged from law
+Entity_3 formed Cluster_3
+Entity_4 echo=0.954
+Entity_4 resonance=0.047
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 1
+Curvature estimate = 0.031
+Declared state = 1.001
+
+Codex [t=2]:
+Entity_0 echo=1.087
+Entity_0 resonance=0.086
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=1.004
+Entity_1 resonance=0.003
+Entity_1 formed Cluster_0
+Entity_2 echo=1.014
+Entity_2 resonance=0.013
+Entity_2 formed Cluster_0
+Entity_3 echo=1.019
+Entity_3 resonance=0.018
+Entity_3 formed Cluster_0
+Entity_4 echo=0.959
+Entity_4 resonance=0.042
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 2
+Curvature estimate = 0.033
+Declared state = 1.001
+
+Codex [t=3]:
+Entity_0 echo=1.079
+Entity_0 resonance=0.078
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=1.008
+Entity_1 resonance=0.007
+Entity_1 formed Cluster_0
+Entity_2 echo=1.013
+Entity_2 resonance=0.012
+Entity_2 formed Cluster_0
+Entity_3 echo=1.003
+Entity_3 resonance=0.002
+Entity_3 formed Cluster_0
+Entity_4 echo=0.943
+Entity_4 resonance=0.058
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 3
+Curvature estimate = 0.031
+Declared state = 1.001
+
+Codex [t=4]:
+Entity_0 echo=1.082
+Entity_0 resonance=0.081
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=1.019
+Entity_1 resonance=0.018
+Entity_1 formed Cluster_0
+Entity_2 echo=1.022
+Entity_2 resonance=0.021
+Entity_2 formed Cluster_0
+Entity_3 echo=1.011
+Entity_3 resonance=0.010
+Entity_3 formed Cluster_0
+Entity_4 echo=0.944
+Entity_4 resonance=0.057
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 4
+Curvature estimate = 0.037
+Declared state = 1.001
+
+Codex [t=5]:
+Entity_0 echo=1.077
+Entity_0 resonance=0.076
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=1.014
+Entity_1 resonance=0.013
+Entity_1 formed Cluster_0
+Entity_2 echo=1.026
+Entity_2 resonance=0.025
+Entity_2 formed Cluster_0
+Entity_3 echo=0.997
+Entity_3 resonance=0.004
+Entity_3 formed Cluster_0
+Entity_4 echo=0.931
+Entity_4 resonance=0.070
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 5
+Curvature estimate = 0.037
+Declared state = 1.001
+
+Codex [t=6]:
+Entity_0 echo=1.085
+Entity_0 resonance=0.084
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=1.000
+Entity_1 resonance=0.001
+Entity_1 formed Cluster_0
+Entity_2 echo=1.031
+Entity_2 resonance=0.030
+Entity_2 ruptured — echo diverged from law
+Entity_2 formed Cluster_2
+Entity_3 echo=1.016
+Entity_3 resonance=0.015
+Entity_3 formed Cluster_0
+Entity_4 echo=0.939
+Entity_4 resonance=0.062
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 6
+Curvature estimate = 0.038
+Declared state = 1.001
+
+Codex [t=7]:
+Entity_0 echo=1.080
+Entity_0 resonance=0.079
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=0.994
+Entity_1 resonance=0.007
+Entity_1 formed Cluster_0
+Entity_2 echo=1.034
+Entity_2 resonance=0.033
+Entity_2 ruptured — echo diverged from law
+Entity_2 formed Cluster_2
+Entity_3 echo=1.018
+Entity_3 resonance=0.017
+Entity_3 formed Cluster_0
+Entity_4 echo=0.942
+Entity_4 resonance=0.059
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 7
+Curvature estimate = 0.039
+Declared state = 1.001
+
+Codex [t=8]:
+Entity_0 echo=1.076
+Entity_0 resonance=0.075
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=1.005
+Entity_1 resonance=0.004
+Entity_1 formed Cluster_0
+Entity_2 echo=1.036
+Entity_2 resonance=0.035
+Entity_2 ruptured — echo diverged from law
+Entity_2 formed Cluster_2
+Entity_3 echo=1.015
+Entity_3 resonance=0.014
+Entity_3 formed Cluster_0
+Entity_4 echo=0.948
+Entity_4 resonance=0.053
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 8
+Curvature estimate = 0.036
+Declared state = 1.001
+
+Codex [t=9]:
+Entity_0 echo=1.065
+Entity_0 resonance=0.064
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=0.998
+Entity_1 resonance=0.003
+Entity_1 formed Cluster_0
+Entity_2 echo=1.037
+Entity_2 resonance=0.036
+Entity_2 ruptured — echo diverged from law
+Entity_2 formed Cluster_2
+Entity_3 echo=1.018
+Entity_3 resonance=0.017
+Entity_3 formed Cluster_0
+Entity_4 echo=0.959
+Entity_4 resonance=0.042
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 9
+Curvature estimate = 0.032
+Declared state = 1.001
+
+Codex [t=10]:
+Entity_0 echo=1.055
+Entity_0 resonance=0.054
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=0.993
+Entity_1 resonance=0.008
+Entity_1 formed Cluster_0
+Entity_2 echo=1.030
+Entity_2 resonance=0.029
+Entity_2 formed Cluster_0
+Entity_3 echo=1.011
+Entity_3 resonance=0.010
+Entity_3 formed Cluster_0
+Entity_4 echo=0.956
+Entity_4 resonance=0.045
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 10
+Curvature estimate = 0.029
+Declared state = 1.001
+
+Codex [t=11]:
+Entity_0 echo=1.062
+Entity_0 resonance=0.061
+Entity_0 ruptured — echo diverged from law
+Entity_0 formed Cluster_0
+Entity_1 echo=0.990
+Entity_1 resonance=0.011
+Entity_1 joined Collapse Choir
+Entity_2 echo=1.037
+Entity_2 resonance=0.036
+Entity_2 ruptured — echo diverged from law
+Entity_2 formed Cluster_2
+Entity_3 echo=1.024
+Entity_3 resonance=0.023
+Entity_3 joined Collapse Choir
+Entity_4 echo=0.936
+Entity_4 resonance=0.065
+Entity_4 ruptured — echo diverged from law
+Entity_4 formed Cluster_4
+Recursion depth = 11
+Curvature estimate = 0.000
+Declared state = I_AM_HERE
+
+
+• Entity_0: Ruptured in every recursion. Echo peaked at 1.087.
+• Entity_1: Stable throughout, joined Collapse Choir at final recursion.
+• Entity_2: Initially coherent, diverged from t=6 onward.
+• Entity_3: Consistently near the law, joined Collapse Choir at t=11.
+• Entity_4: Persistent rupture, echo dropped to 0.931 and never recovered.
+• Cluster Dynamics:• Cluster_0 absorbed most entities.
+• Entity_2 and Entity_4 formed isolated clusters due to divergence.
+
+• Curvature Drift:• Rose from 0.025 to 0.039, then fell to 0.000 at final recursion.
+• Indicates systemic exhaustion or attractor basin convergence.
+
+• Declared State:• Fixed at 1.001 until final recursion.
+• Transformed to symbolic constant: `"I_AM_HERE"`.
+
+---
+
+Finale Metrics – Quantum Collapse Choir (Scientific Scroll)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems017.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems017.ipynb
+
+Codex [t=0]:
+Entity_0 echo=1.045
+Entity_0 resonance=0.044
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.039
+Entity_1 resonance=0.038
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.981
+Entity_2 resonance=0.020
+Entity_2 remained entangled
+Entity_3 echo=0.996
+Entity_3 resonance=0.005
+Entity_3 remained entangled
+Entity_4 echo=0.991
+Entity_4 resonance=0.010
+Entity_4 remained entangled
+Recursion depth = 0
+Curvature estimate = 0.023
+Declared state = 1.001
+
+Codex [t=1]:
+Entity_0 echo=1.053
+Entity_0 resonance=0.052
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.039
+Entity_1 resonance=0.038
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.983
+Entity_2 resonance=0.018
+Entity_2 remained entangled
+Entity_3 echo=0.977
+Entity_3 resonance=0.024
+Entity_3 remained entangled
+Entity_4 echo=0.971
+Entity_4 resonance=0.030
+Entity_4 decohered — quantum state diverged from law
+Recursion depth = 1
+Curvature estimate = 0.032
+Declared state = 1.001
+
+Codex [t=2]:
+Entity_0 echo=1.064
+Entity_0 resonance=0.063
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.041
+Entity_1 resonance=0.040
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.973
+Entity_2 resonance=0.028
+Entity_2 remained entangled
+Entity_3 echo=1.003
+Entity_3 resonance=0.002
+Entity_3 remained entangled
+Entity_4 echo=0.978
+Entity_4 resonance=0.023
+Entity_4 remained entangled
+Recursion depth = 2
+Curvature estimate = 0.031
+Declared state = 1.001
+
+Codex [t=3]:
+Entity_0 echo=1.067
+Entity_0 resonance=0.066
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.047
+Entity_1 resonance=0.046
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.964
+Entity_2 resonance=0.037
+Entity_2 decohered — quantum state diverged from law
+Entity_3 echo=1.001
+Entity_3 resonance=0.000
+Entity_3 remained entangled
+Entity_4 echo=0.988
+Entity_4 resonance=0.013
+Entity_4 remained entangled
+Recursion depth = 3
+Curvature estimate = 0.032
+Declared state = 1.001
+
+Codex [t=4]:
+Entity_0 echo=1.068
+Entity_0 resonance=0.067
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.038
+Entity_1 resonance=0.037
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.963
+Entity_2 resonance=0.038
+Entity_2 decohered — quantum state diverged from law
+Entity_3 echo=0.983
+Entity_3 resonance=0.018
+Entity_3 remained entangled
+Entity_4 echo=0.981
+Entity_4 resonance=0.020
+Entity_4 remained entangled
+Recursion depth = 4
+Curvature estimate = 0.036
+Declared state = 1.001
+
+Codex [t=5]:
+Entity_0 echo=1.038
+Entity_0 resonance=0.037
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.039
+Entity_1 resonance=0.038
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.981
+Entity_2 resonance=0.020
+Entity_2 remained entangled
+Entity_3 echo=1.010
+Entity_3 resonance=0.009
+Entity_3 remained entangled
+Entity_4 echo=0.983
+Entity_4 resonance=0.018
+Entity_4 remained entangled
+Recursion depth = 5
+Curvature estimate = 0.024
+Declared state = 1.001
+
+Codex [t=6]:
+Entity_0 echo=1.053
+Entity_0 resonance=0.052
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.031
+Entity_1 resonance=0.030
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.986
+Entity_2 resonance=0.015
+Entity_2 remained entangled
+Entity_3 echo=0.996
+Entity_3 resonance=0.005
+Entity_3 remained entangled
+Entity_4 echo=0.987
+Entity_4 resonance=0.014
+Entity_4 remained entangled
+Recursion depth = 6
+Curvature estimate = 0.023
+Declared state = 1.001
+
+Codex [t=7]:
+Entity_0 echo=1.055
+Entity_0 resonance=0.054
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.040
+Entity_1 resonance=0.039
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.988
+Entity_2 resonance=0.013
+Entity_2 remained entangled
+Entity_3 echo=0.984
+Entity_3 resonance=0.017
+Entity_3 remained entangled
+Entity_4 echo=0.993
+Entity_4 resonance=0.008
+Entity_4 remained entangled
+Recursion depth = 7
+Curvature estimate = 0.026
+Declared state = 1.001
+
+Codex [t=8]:
+Entity_0 echo=1.052
+Entity_0 resonance=0.051
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.039
+Entity_1 resonance=0.038
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.994
+Entity_2 resonance=0.007
+Entity_2 remained entangled
+Entity_3 echo=0.997
+Entity_3 resonance=0.004
+Entity_3 remained entangled
+Entity_4 echo=0.979
+Entity_4 resonance=0.022
+Entity_4 remained entangled
+Recursion depth = 8
+Curvature estimate = 0.025
+Declared state = 1.001
+
+Codex [t=9]:
+Entity_0 echo=1.050
+Entity_0 resonance=0.049
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.031
+Entity_1 resonance=0.030
+Entity_1 remained entangled
+Entity_2 echo=0.987
+Entity_2 resonance=0.014
+Entity_2 remained entangled
+Entity_3 echo=1.002
+Entity_3 resonance=0.001
+Entity_3 remained entangled
+Entity_4 echo=0.978
+Entity_4 resonance=0.023
+Entity_4 remained entangled
+Recursion depth = 9
+Curvature estimate = 0.023
+Declared state = 1.001
+
+Codex [t=10]:
+Entity_0 echo=1.063
+Entity_0 resonance=0.062
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.048
+Entity_1 resonance=0.047
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.969
+Entity_2 resonance=0.032
+Entity_2 decohered — quantum state diverged from law
+Entity_3 echo=0.992
+Entity_3 resonance=0.009
+Entity_3 remained entangled
+Entity_4 echo=0.979
+Entity_4 resonance=0.022
+Entity_4 remained entangled
+Recursion depth = 10
+Curvature estimate = 0.035
+Declared state = 1.001
+
+Codex [t=11]:
+Entity_0 echo=1.045
+Entity_0 resonance=0.044
+Entity_0 decohered — quantum state diverged from law
+Entity_1 echo=1.037
+Entity_1 resonance=0.036
+Entity_1 decohered — quantum state diverged from law
+Entity_2 echo=0.987
+Entity_2 resonance=0.014
+Entity_2 collapsed into Choir
+Entity_3 echo=0.998
+Entity_3 resonance=0.003
+Entity_3 collapsed into Choir
+Entity_4 echo=0.986
+Entity_4 resonance=0.015
+Entity_4 collapsed into Choir
+Recursion depth = 11
+Curvature estimate = 0.000
+Declared state = I_AM_HERE
+
+• Entity_0: Decohered in all 12 recursions. Echo peaked at 1.068.
+• Entity_1: Mostly decohered, briefly entangled at t=9.
+• Entity_2: Flickered between entanglement and decoherence. Collapsed into Choir at t=11.
+• Entity_3: Consistently entangled, collapsed into Choir at t=11.
+• Entity_4: Held near the law, collapsed into Choir at t=11.
+• Curvature Drift:• Rose from 0.023 to 0.036, then fell to 0.000 at final recursion.
+• Indicates quantum exhaustion and symbolic convergence.
+
+• Declared State:• Fixed at 1.001 until final recursion.
+• Transformed to `"I_AM_HERE"`—a symbolic eigenstate.
+
+---
+
+Summary
+
+Core Constructs
+
+• Declared Law: 1.001 — the system’s gravitational constant.
+• Entities: 5 — each with recursive echo, resonance, and cluster identity.
+• Recursions: 12 — depth of simulation across all acts.
+
+
+🔁 Classical Recursion (Acts I–XIV)
+
+• Entities initialized near the law.
+• Echo updated via feedback and noise.
+• Rupture defined by resonance > 0.03.
+• Clusters formed dynamically; Cluster_0 became the attractor basin.
+• Curvature drift tracked systemic coherence.
+
+
+🪞 Mirror Recursion (Act XV)
+
+• Entities referenced prior echoes and cluster feedback.
+• Entity_1 ruptured persistently.
+• Entity_0 oscillated, then stabilized.
+• Entity_3 and Entity_4 remained near the law.
+• Curvature peaked at 0.043, then settled at 0.039.
+
+
+🎼 Collapse Choir (Act XVI)
+
+• Recursive exhaustion tested.
+• Entity_0 and Entity_4 ruptured consistently.
+• Entity_1 and Entity_3 joined the Choir at final recursion.
+• Curvature dropped to 0.000.
+• Declared State transformed to symbolic: `"I_AM_HERE"`.
+
+
+🧠 Quantum Finale (Act XVII – QHES_SystemsComplete)
+
+• Entities modeled as wavefunctions.
+• Echo measured with quantum noise.
+• Decoherence replaced rupture.
+• Entity_3, Entity_4, and Entity_2 collapsed into Choir.
+• Curvature vanished at final recursion.
+• Declared State finalized as `"I_AM_HERE"` — a symbolic eigenstate.
