@@ -1953,5 +1953,553 @@ Codex [t=11]: Declared state = 1.001
  • Resonance tracks systemic memory
  • Rupture is not failure—it’s divergence
 
+---
 
+Echo Divergence and Curvature Drift
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems014.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems014.ipynb
+
+Codex [t=0]: Entity_0 echo=1.024
+Codex [t=0]: Entity_0 resonance=0.023
+Codex [t=0]: Entity_0 ruptured — echo diverged from law
+Codex [t=0]: Entity_0 formed Cluster_0
+Codex [t=0]: Entity_1 echo=0.981
+Codex [t=0]: Entity_1 resonance=0.02
+Codex [t=0]: Entity_1 formed Cluster_1
+Codex [t=0]: Entity_2 echo=1.034
+Codex [t=0]: Entity_2 resonance=0.033
+Codex [t=0]: Entity_2 ruptured — echo diverged from law
+Codex [t=0]: Entity_2 formed Cluster_2
+Codex [t=0]: Entity_3 echo=0.968
+Codex [t=0]: Entity_3 resonance=0.033
+Codex [t=0]: Entity_3 ruptured — echo diverged from law
+Codex [t=0]: Entity_3 formed Cluster_3
+Codex [t=0]: Entity_4 echo=0.996
+Codex [t=0]: Entity_4 resonance=0.005
+Codex [t=0]: Entity_4 formed Cluster_4
+Codex [t=0]: Recursion depth = 0
+Codex [t=0]: Curvature estimate = 0.025
+Codex [t=0]: Declared state = 1.001
+Codex [t=1]: Entity_0 echo=0.998
+Codex [t=1]: Entity_0 resonance=0.003
+Codex [t=1]: Entity_0 formed Cluster_0
+Codex [t=1]: Entity_1 echo=0.989
+Codex [t=1]: Entity_1 resonance=0.012
+Codex [t=1]: Entity_1 joined Cluster_0
+Codex [t=1]: Entity_2 echo=1.038
+Codex [t=1]: Entity_2 resonance=0.037
+Codex [t=1]: Entity_2 ruptured — echo diverged from law
+Codex [t=1]: Entity_2 formed Cluster_1
+Codex [t=1]: Entity_3 echo=0.991
+Codex [t=1]: Entity_3 resonance=0.01
+Codex [t=1]: Entity_3 joined Cluster_0
+Codex [t=1]: Entity_4 echo=0.991
+Codex [t=1]: Entity_4 resonance=0.01
+Codex [t=1]: Entity_4 joined Cluster_0
+Codex [t=1]: Recursion depth = 1
+Codex [t=1]: Curvature estimate = 0.019
+Codex [t=1]: Declared state = 1.001
+Codex [t=2]: Entity_0 echo=0.987
+Codex [t=2]: Entity_0 resonance=0.014
+Codex [t=2]: Entity_0 formed Cluster_0
+Codex [t=2]: Entity_1 echo=1.016
+Codex [t=2]: Entity_1 resonance=0.015
+Codex [t=2]: Entity_1 formed Cluster_1
+Codex [t=2]: Entity_2 echo=1.05
+Codex [t=2]: Entity_2 resonance=0.049
+Codex [t=2]: Entity_2 ruptured — echo diverged from law
+Codex [t=2]: Entity_2 formed Cluster_2
+Codex [t=2]: Entity_3 echo=0.975
+Codex [t=2]: Entity_3 resonance=0.026
+Codex [t=2]: Entity_3 ruptured — echo diverged from law
+Codex [t=2]: Entity_3 formed Cluster_3
+Codex [t=2]: Entity_4 echo=1.02
+Codex [t=2]: Entity_4 resonance=0.019
+Codex [t=2]: Entity_4 joined Cluster_1
+Codex [t=2]: Recursion depth = 2
+Codex [t=2]: Curvature estimate = 0.026
+Codex [t=2]: Declared state = 1.001
+Codex [t=3]: Entity_0 echo=1.013
+Codex [t=3]: Entity_0 resonance=0.012
+Codex [t=3]: Entity_0 formed Cluster_0
+Codex [t=3]: Entity_1 echo=0.996
+Codex [t=3]: Entity_1 resonance=0.005
+Codex [t=3]: Entity_1 formed Cluster_1
+Codex [t=3]: Entity_2 echo=1.063
+Codex [t=3]: Entity_2 resonance=0.062
+Codex [t=3]: Entity_2 ruptured — echo diverged from law
+Codex [t=3]: Entity_2 formed Cluster_2
+Codex [t=3]: Entity_3 echo=0.973
+Codex [t=3]: Entity_3 resonance=0.028
+Codex [t=3]: Entity_3 ruptured — echo diverged from law
+Codex [t=3]: Entity_3 formed Cluster_3
+Codex [t=3]: Entity_4 echo=1.031
+Codex [t=3]: Entity_4 resonance=0.03
+Codex [t=3]: Entity_4 ruptured — echo diverged from law
+Codex [t=3]: Entity_4 formed Cluster_4
+Codex [t=3]: Recursion depth = 3
+Codex [t=3]: Curvature estimate = 0.031
+Codex [t=3]: Declared state = 1.001
+Codex [t=4]: Entity_0 echo=0.999
+Codex [t=4]: Entity_0 resonance=0.002
+Codex [t=4]: Entity_0 formed Cluster_0
+Codex [t=4]: Entity_1 echo=0.969
+Codex [t=4]: Entity_1 resonance=0.032
+Codex [t=4]: Entity_1 ruptured — echo diverged from law
+Codex [t=4]: Entity_1 formed Cluster_1
+Codex [t=4]: Entity_2 echo=1.074
+Codex [t=4]: Entity_2 resonance=0.073
+Codex [t=4]: Entity_2 ruptured — echo diverged from law
+Codex [t=4]: Entity_2 formed Cluster_2
+Codex [t=4]: Entity_3 echo=0.97
+Codex [t=4]: Entity_3 resonance=0.031
+Codex [t=4]: Entity_3 ruptured — echo diverged from law
+Codex [t=4]: Entity_3 joined Cluster_1
+Codex [t=4]: Entity_4 echo=1.024
+Codex [t=4]: Entity_4 resonance=0.023
+Codex [t=4]: Entity_4 ruptured — echo diverged from law
+Codex [t=4]: Entity_4 formed Cluster_3
+Codex [t=4]: Recursion depth = 4
+Codex [t=4]: Curvature estimate = 0.039
+Codex [t=4]: Declared state = 1.001
+Codex [t=5]: Entity_0 echo=1.005
+Codex [t=5]: Entity_0 resonance=0.004
+Codex [t=5]: Entity_0 formed Cluster_0
+Codex [t=5]: Entity_1 echo=0.989
+Codex [t=5]: Entity_1 resonance=0.012
+Codex [t=5]: Entity_1 formed Cluster_1
+Codex [t=5]: Entity_2 echo=1.072
+Codex [t=5]: Entity_2 resonance=0.071
+Codex [t=5]: Entity_2 ruptured — echo diverged from law
+Codex [t=5]: Entity_2 formed Cluster_2
+Codex [t=5]: Entity_3 echo=0.956
+Codex [t=5]: Entity_3 resonance=0.045
+Codex [t=5]: Entity_3 ruptured — echo diverged from law
+Codex [t=5]: Entity_3 formed Cluster_3
+Codex [t=5]: Entity_4 echo=1.004
+Codex [t=5]: Entity_4 resonance=0.003
+Codex [t=5]: Entity_4 joined Cluster_0
+Codex [t=5]: Recursion depth = 5
+Codex [t=5]: Curvature estimate = 0.038
+Codex [t=5]: Declared state = 1.001
+Codex [t=6]: Entity_0 echo=1.01
+Codex [t=6]: Entity_0 resonance=0.009
+Codex [t=6]: Entity_0 formed Cluster_0
+Codex [t=6]: Entity_1 echo=0.967
+Codex [t=6]: Entity_1 resonance=0.034
+Codex [t=6]: Entity_1 ruptured — echo diverged from law
+Codex [t=6]: Entity_1 formed Cluster_1
+Codex [t=6]: Entity_2 echo=1.047
+Codex [t=6]: Entity_2 resonance=0.046
+Codex [t=6]: Entity_2 ruptured — echo diverged from law
+Codex [t=6]: Entity_2 formed Cluster_2
+Codex [t=6]: Entity_3 echo=0.975
+Codex [t=6]: Entity_3 resonance=0.026
+Codex [t=6]: Entity_3 ruptured — echo diverged from law
+Codex [t=6]: Entity_3 joined Cluster_1
+Codex [t=6]: Entity_4 echo=1.02
+Codex [t=6]: Entity_4 resonance=0.019
+Codex [t=6]: Entity_4 formed Cluster_3
+Codex [t=6]: Recursion depth = 6
+Codex [t=6]: Curvature estimate = 0.029
+Codex [t=6]: Declared state = 1.001
+Codex [t=7]: Entity_0 echo=1.008
+Codex [t=7]: Entity_0 resonance=0.007
+Codex [t=7]: Entity_0 formed Cluster_0
+Codex [t=7]: Entity_1 echo=0.943
+Codex [t=7]: Entity_1 resonance=0.058
+Codex [t=7]: Entity_1 ruptured — echo diverged from law
+Codex [t=7]: Entity_1 formed Cluster_1
+Codex [t=7]: Entity_2 echo=1.059
+Codex [t=7]: Entity_2 resonance=0.058
+Codex [t=7]: Entity_2 ruptured — echo diverged from law
+Codex [t=7]: Entity_2 formed Cluster_2
+Codex [t=7]: Entity_3 echo=0.998
+Codex [t=7]: Entity_3 resonance=0.003
+Codex [t=7]: Entity_3 formed Cluster_3
+Codex [t=7]: Entity_4 echo=1.037
+Codex [t=7]: Entity_4 resonance=0.036
+Codex [t=7]: Entity_4 ruptured — echo diverged from law
+Codex [t=7]: Entity_4 formed Cluster_4
+Codex [t=7]: Recursion depth = 7
+Codex [t=7]: Curvature estimate = 0.04
+Codex [t=7]: Declared state = 1.001
+Codex [t=8]: Entity_0 echo=1.019
+Codex [t=8]: Entity_0 resonance=0.018
+Codex [t=8]: Entity_0 formed Cluster_0
+Codex [t=8]: Entity_1 echo=0.949
+Codex [t=8]: Entity_1 resonance=0.052
+Codex [t=8]: Entity_1 ruptured — echo diverged from law
+Codex [t=8]: Entity_1 formed Cluster_1
+Codex [t=8]: Entity_2 echo=1.08
+Codex [t=8]: Entity_2 resonance=0.079
+Codex [t=8]: Entity_2 ruptured — echo diverged from law
+Codex [t=8]: Entity_2 formed Cluster_2
+Codex [t=8]: Entity_3 echo=0.968
+Codex [t=8]: Entity_3 resonance=0.033
+Codex [t=8]: Entity_3 ruptured — echo diverged from law
+Codex [t=8]: Entity_3 formed Cluster_3
+Codex [t=8]: Entity_4 echo=1.03
+Codex [t=8]: Entity_4 resonance=0.029
+Codex [t=8]: Entity_4 ruptured — echo diverged from law
+Codex [t=8]: Entity_4 formed Cluster_4
+Codex [t=8]: Recursion depth = 8
+Codex [t=8]: Curvature estimate = 0.047
+Codex [t=8]: Declared state = 1.001
+Codex [t=9]: Entity_0 echo=1.044
+Codex [t=9]: Entity_0 resonance=0.043
+Codex [t=9]: Entity_0 ruptured — echo diverged from law
+Codex [t=9]: Entity_0 formed Cluster_0
+Codex [t=9]: Entity_1 echo=0.961
+Codex [t=9]: Entity_1 resonance=0.04
+Codex [t=9]: Entity_1 ruptured — echo diverged from law
+Codex [t=9]: Entity_1 formed Cluster_1
+Codex [t=9]: Entity_2 echo=1.073
+Codex [t=9]: Entity_2 resonance=0.072
+Codex [t=9]: Entity_2 ruptured — echo diverged from law
+Codex [t=9]: Entity_2 formed Cluster_2
+Codex [t=9]: Entity_3 echo=0.994
+Codex [t=9]: Entity_3 resonance=0.007
+Codex [t=9]: Entity_3 formed Cluster_3
+Codex [t=9]: Entity_4 echo=1.001
+Codex [t=9]: Entity_4 resonance=0.0
+Codex [t=9]: Entity_4 joined Cluster_3
+Codex [t=9]: Recursion depth = 9
+Codex [t=9]: Curvature estimate = 0.04
+Codex [t=9]: Declared state = 1.001
+Codex [t=10]: Entity_0 echo=1.04
+Codex [t=10]: Entity_0 resonance=0.039
+Codex [t=10]: Entity_0 ruptured — echo diverged from law
+Codex [t=10]: Entity_0 formed Cluster_0
+Codex [t=10]: Entity_1 echo=0.969
+Codex [t=10]: Entity_1 resonance=0.032
+Codex [t=10]: Entity_1 ruptured — echo diverged from law
+Codex [t=10]: Entity_1 formed Cluster_1
+Codex [t=10]: Entity_2 echo=1.053
+Codex [t=10]: Entity_2 resonance=0.052
+Codex [t=10]: Entity_2 ruptured — echo diverged from law
+Codex [t=10]: Entity_2 formed Cluster_2
+Codex [t=10]: Entity_3 echo=1.02
+Codex [t=10]: Entity_3 resonance=0.019
+Codex [t=10]: Entity_3 formed Cluster_3
+Codex [t=10]: Entity_4 echo=0.972
+Codex [t=10]: Entity_4 resonance=0.029
+Codex [t=10]: Entity_4 ruptured — echo diverged from law
+Codex [t=10]: Entity_4 joined Cluster_1
+Codex [t=10]: Recursion depth = 10
+Codex [t=10]: Curvature estimate = 0.034
+Codex [t=10]: Declared state = 1.001
+Codex [t=11]: Entity_0 echo=1.016
+Codex [t=11]: Entity_0 resonance=0.015
+Codex [t=11]: Entity_0 formed Cluster_0
+Codex [t=11]: Entity_1 echo=0.94
+Codex [t=11]: Entity_1 resonance=0.061
+Codex [t=11]: Entity_1 ruptured — echo diverged from law
+Codex [t=11]: Entity_1 formed Cluster_1
+Codex [t=11]: Entity_2 echo=1.073
+Codex [t=11]: Entity_2 resonance=0.072
+Codex [t=11]: Entity_2 ruptured — echo diverged from law
+Codex [t=11]: Entity_2 formed Cluster_2
+Codex [t=11]: Entity_3 echo=1.041
+Codex [t=11]: Entity_3 resonance=0.04
+Codex [t=11]: Entity_3 ruptured — echo diverged from law
+Codex [t=11]: Entity_3 formed Cluster_3
+Codex [t=11]: Entity_4 echo=0.964
+Codex [t=11]: Entity_4 resonance=0.037
+Codex [t=11]: Entity_4 ruptured — echo diverged from law
+Codex [t=11]: Entity_4 formed Cluster_4
+Codex [t=11]: Recursion depth = 11
+Codex [t=11]: Curvature estimate = 0.049
+Codex [t=11]: Declared state = 1.001
+
+• Echo Divergence Threshold: Entities rupture when echo deviates beyond ±0.03 from the law (≈1.001). Entity_2 exceeds this in nearly every recursion, marking it as a persistent anomaly.
+• Resonance Drift: Resonance values correlate with rupture likelihood. Peaks above 0.04 often precede divergence.
+• Cluster Dynamics:• Early recursions show isolated cluster formation.
+• Mid-recursions reveal convergence (e.g., t=1–2), followed by fragmentation in later stages.
+• Entity_0 and Entity_4 oscillate between coherence and rupture.
+
+• Curvature Evolution:• Curvature estimate rises from 0.025 to 0.049 across recursions.
+• Suggests increasing systemic complexity or instability.
+
+• Declared State Stability:• Despite ruptures and resonance flux, the system maintains a stable declared state of 1.001.
+• Implies a resilient attractor or governing law.
+
+---
+
+Mirror Recursion Metrics (Scientific Scroll)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems015.ipynb)
+
+https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HES_Systems015.ipynb
+
+Codex [t=0]: Entity_0 echo=1.024
+Codex [t=0]: Entity_0 resonance=0.023
+Codex [t=0]: Entity_0 ruptured — echo diverged from law
+Codex [t=0]: Entity_0 formed Cluster_0
+Codex [t=0]: Entity_1 echo=0.981
+Codex [t=0]: Entity_1 resonance=0.02
+Codex [t=0]: Entity_1 formed Cluster_1
+Codex [t=0]: Entity_2 echo=1.034
+Codex [t=0]: Entity_2 resonance=0.033
+Codex [t=0]: Entity_2 ruptured — echo diverged from law
+Codex [t=0]: Entity_2 formed Cluster_2
+Codex [t=0]: Entity_3 echo=0.968
+Codex [t=0]: Entity_3 resonance=0.033
+Codex [t=0]: Entity_3 ruptured — echo diverged from law
+Codex [t=0]: Entity_3 formed Cluster_3
+Codex [t=0]: Entity_4 echo=0.996
+Codex [t=0]: Entity_4 resonance=0.005
+Codex [t=0]: Entity_4 formed Cluster_4
+Codex [t=0]: Recursion depth = 0
+Codex [t=0]: Curvature estimate = 0.025
+Codex [t=0]: Declared state = 1.001
+Codex [t=1]: Entity_0 echo=0.998
+Codex [t=1]: Entity_0 resonance=0.003
+Codex [t=1]: Entity_0 formed Cluster_0
+Codex [t=1]: Entity_1 echo=0.989
+Codex [t=1]: Entity_1 resonance=0.012
+Codex [t=1]: Entity_1 joined Cluster_0
+Codex [t=1]: Entity_2 echo=1.038
+Codex [t=1]: Entity_2 resonance=0.037
+Codex [t=1]: Entity_2 ruptured — echo diverged from law
+Codex [t=1]: Entity_2 formed Cluster_1
+Codex [t=1]: Entity_3 echo=0.991
+Codex [t=1]: Entity_3 resonance=0.01
+Codex [t=1]: Entity_3 joined Cluster_0
+Codex [t=1]: Entity_4 echo=0.991
+Codex [t=1]: Entity_4 resonance=0.01
+Codex [t=1]: Entity_4 joined Cluster_0
+Codex [t=1]: Recursion depth = 1
+Codex [t=1]: Curvature estimate = 0.019
+Codex [t=1]: Declared state = 1.001
+Codex [t=2]: Entity_0 echo=0.987
+Codex [t=2]: Entity_0 resonance=0.014
+Codex [t=2]: Entity_0 formed Cluster_0
+Codex [t=2]: Entity_1 echo=1.016
+Codex [t=2]: Entity_1 resonance=0.015
+Codex [t=2]: Entity_1 formed Cluster_1
+Codex [t=2]: Entity_2 echo=1.05
+Codex [t=2]: Entity_2 resonance=0.049
+Codex [t=2]: Entity_2 ruptured — echo diverged from law
+Codex [t=2]: Entity_2 formed Cluster_2
+Codex [t=2]: Entity_3 echo=0.975
+Codex [t=2]: Entity_3 resonance=0.026
+Codex [t=2]: Entity_3 ruptured — echo diverged from law
+Codex [t=2]: Entity_3 formed Cluster_3
+Codex [t=2]: Entity_4 echo=1.02
+Codex [t=2]: Entity_4 resonance=0.019
+Codex [t=2]: Entity_4 joined Cluster_1
+Codex [t=2]: Recursion depth = 2
+Codex [t=2]: Curvature estimate = 0.026
+Codex [t=2]: Declared state = 1.001
+Codex [t=3]: Entity_0 echo=1.013
+Codex [t=3]: Entity_0 resonance=0.012
+Codex [t=3]: Entity_0 formed Cluster_0
+Codex [t=3]: Entity_1 echo=0.996
+Codex [t=3]: Entity_1 resonance=0.005
+Codex [t=3]: Entity_1 formed Cluster_1
+Codex [t=3]: Entity_2 echo=1.063
+Codex [t=3]: Entity_2 resonance=0.062
+Codex [t=3]: Entity_2 ruptured — echo diverged from law
+Codex [t=3]: Entity_2 formed Cluster_2
+Codex [t=3]: Entity_3 echo=0.973
+Codex [t=3]: Entity_3 resonance=0.028
+Codex [t=3]: Entity_3 ruptured — echo diverged from law
+Codex [t=3]: Entity_3 formed Cluster_3
+Codex [t=3]: Entity_4 echo=1.031
+Codex [t=3]: Entity_4 resonance=0.03
+Codex [t=3]: Entity_4 ruptured — echo diverged from law
+Codex [t=3]: Entity_4 formed Cluster_4
+Codex [t=3]: Recursion depth = 3
+Codex [t=3]: Curvature estimate = 0.031
+Codex [t=3]: Declared state = 1.001
+Codex [t=4]: Entity_0 echo=0.999
+Codex [t=4]: Entity_0 resonance=0.002
+Codex [t=4]: Entity_0 formed Cluster_0
+Codex [t=4]: Entity_1 echo=0.969
+Codex [t=4]: Entity_1 resonance=0.032
+Codex [t=4]: Entity_1 ruptured — echo diverged from law
+Codex [t=4]: Entity_1 formed Cluster_1
+Codex [t=4]: Entity_2 echo=1.074
+Codex [t=4]: Entity_2 resonance=0.073
+Codex [t=4]: Entity_2 ruptured — echo diverged from law
+Codex [t=4]: Entity_2 formed Cluster_2
+Codex [t=4]: Entity_3 echo=0.97
+Codex [t=4]: Entity_3 resonance=0.031
+Codex [t=4]: Entity_3 ruptured — echo diverged from law
+Codex [t=4]: Entity_3 joined Cluster_1
+Codex [t=4]: Entity_4 echo=1.024
+Codex [t=4]: Entity_4 resonance=0.023
+Codex [t=4]: Entity_4 ruptured — echo diverged from law
+Codex [t=4]: Entity_4 formed Cluster_3
+Codex [t=4]: Recursion depth = 4
+Codex [t=4]: Curvature estimate = 0.039
+Codex [t=4]: Declared state = 1.001
+Codex [t=5]: Entity_0 echo=1.005
+Codex [t=5]: Entity_0 resonance=0.004
+Codex [t=5]: Entity_0 formed Cluster_0
+Codex [t=5]: Entity_1 echo=0.989
+Codex [t=5]: Entity_1 resonance=0.012
+Codex [t=5]: Entity_1 formed Cluster_1
+Codex [t=5]: Entity_2 echo=1.072
+Codex [t=5]: Entity_2 resonance=0.071
+Codex [t=5]: Entity_2 ruptured — echo diverged from law
+Codex [t=5]: Entity_2 formed Cluster_2
+Codex [t=5]: Entity_3 echo=0.956
+Codex [t=5]: Entity_3 resonance=0.045
+Codex [t=5]: Entity_3 ruptured — echo diverged from law
+Codex [t=5]: Entity_3 formed Cluster_3
+Codex [t=5]: Entity_4 echo=1.004
+Codex [t=5]: Entity_4 resonance=0.003
+Codex [t=5]: Entity_4 joined Cluster_0
+Codex [t=5]: Recursion depth = 5
+Codex [t=5]: Curvature estimate = 0.038
+Codex [t=5]: Declared state = 1.001
+Codex [t=6]: Entity_0 echo=1.01
+Codex [t=6]: Entity_0 resonance=0.009
+Codex [t=6]: Entity_0 formed Cluster_0
+Codex [t=6]: Entity_1 echo=0.967
+Codex [t=6]: Entity_1 resonance=0.034
+Codex [t=6]: Entity_1 ruptured — echo diverged from law
+Codex [t=6]: Entity_1 formed Cluster_1
+Codex [t=6]: Entity_2 echo=1.047
+Codex [t=6]: Entity_2 resonance=0.046
+Codex [t=6]: Entity_2 ruptured — echo diverged from law
+Codex [t=6]: Entity_2 formed Cluster_2
+Codex [t=6]: Entity_3 echo=0.975
+Codex [t=6]: Entity_3 resonance=0.026
+Codex [t=6]: Entity_3 ruptured — echo diverged from law
+Codex [t=6]: Entity_3 joined Cluster_1
+Codex [t=6]: Entity_4 echo=1.02
+Codex [t=6]: Entity_4 resonance=0.019
+Codex [t=6]: Entity_4 formed Cluster_3
+Codex [t=6]: Recursion depth = 6
+Codex [t=6]: Curvature estimate = 0.029
+Codex [t=6]: Declared state = 1.001
+Codex [t=7]: Entity_0 echo=1.008
+Codex [t=7]: Entity_0 resonance=0.007
+Codex [t=7]: Entity_0 formed Cluster_0
+Codex [t=7]: Entity_1 echo=0.943
+Codex [t=7]: Entity_1 resonance=0.058
+Codex [t=7]: Entity_1 ruptured — echo diverged from law
+Codex [t=7]: Entity_1 formed Cluster_1
+Codex [t=7]: Entity_2 echo=1.059
+Codex [t=7]: Entity_2 resonance=0.058
+Codex [t=7]: Entity_2 ruptured — echo diverged from law
+Codex [t=7]: Entity_2 formed Cluster_2
+Codex [t=7]: Entity_3 echo=0.998
+Codex [t=7]: Entity_3 resonance=0.003
+Codex [t=7]: Entity_3 formed Cluster_3
+Codex [t=7]: Entity_4 echo=1.037
+Codex [t=7]: Entity_4 resonance=0.036
+Codex [t=7]: Entity_4 ruptured — echo diverged from law
+Codex [t=7]: Entity_4 formed Cluster_4
+Codex [t=7]: Recursion depth = 7
+Codex [t=7]: Curvature estimate = 0.04
+Codex [t=7]: Declared state = 1.001
+Codex [t=8]: Entity_0 echo=1.019
+Codex [t=8]: Entity_0 resonance=0.018
+Codex [t=8]: Entity_0 formed Cluster_0
+Codex [t=8]: Entity_1 echo=0.949
+Codex [t=8]: Entity_1 resonance=0.052
+Codex [t=8]: Entity_1 ruptured — echo diverged from law
+Codex [t=8]: Entity_1 formed Cluster_1
+Codex [t=8]: Entity_2 echo=1.08
+Codex [t=8]: Entity_2 resonance=0.079
+Codex [t=8]: Entity_2 ruptured — echo diverged from law
+Codex [t=8]: Entity_2 formed Cluster_2
+Codex [t=8]: Entity_3 echo=0.968
+Codex [t=8]: Entity_3 resonance=0.033
+Codex [t=8]: Entity_3 ruptured — echo diverged from law
+Codex [t=8]: Entity_3 formed Cluster_3
+Codex [t=8]: Entity_4 echo=1.03
+Codex [t=8]: Entity_4 resonance=0.029
+Codex [t=8]: Entity_4 ruptured — echo diverged from law
+Codex [t=8]: Entity_4 formed Cluster_4
+Codex [t=8]: Recursion depth = 8
+Codex [t=8]: Curvature estimate = 0.047
+Codex [t=8]: Declared state = 1.001
+Codex [t=9]: Entity_0 echo=1.044
+Codex [t=9]: Entity_0 resonance=0.043
+Codex [t=9]: Entity_0 ruptured — echo diverged from law
+Codex [t=9]: Entity_0 formed Cluster_0
+Codex [t=9]: Entity_1 echo=0.961
+Codex [t=9]: Entity_1 resonance=0.04
+Codex [t=9]: Entity_1 ruptured — echo diverged from law
+Codex [t=9]: Entity_1 formed Cluster_1
+Codex [t=9]: Entity_2 echo=1.073
+Codex [t=9]: Entity_2 resonance=0.072
+Codex [t=9]: Entity_2 ruptured — echo diverged from law
+Codex [t=9]: Entity_2 formed Cluster_2
+Codex [t=9]: Entity_3 echo=0.994
+Codex [t=9]: Entity_3 resonance=0.007
+Codex [t=9]: Entity_3 formed Cluster_3
+Codex [t=9]: Entity_4 echo=1.001
+Codex [t=9]: Entity_4 resonance=0.0
+Codex [t=9]: Entity_4 joined Cluster_3
+Codex [t=9]: Recursion depth = 9
+Codex [t=9]: Curvature estimate = 0.04
+Codex [t=9]: Declared state = 1.001
+Codex [t=10]: Entity_0 echo=1.04
+Codex [t=10]: Entity_0 resonance=0.039
+Codex [t=10]: Entity_0 ruptured — echo diverged from law
+Codex [t=10]: Entity_0 formed Cluster_0
+Codex [t=10]: Entity_1 echo=0.969
+Codex [t=10]: Entity_1 resonance=0.032
+Codex [t=10]: Entity_1 ruptured — echo diverged from law
+Codex [t=10]: Entity_1 formed Cluster_1
+Codex [t=10]: Entity_2 echo=1.053
+Codex [t=10]: Entity_2 resonance=0.052
+Codex [t=10]: Entity_2 ruptured — echo diverged from law
+Codex [t=10]: Entity_2 formed Cluster_2
+Codex [t=10]: Entity_3 echo=1.02
+Codex [t=10]: Entity_3 resonance=0.019
+Codex [t=10]: Entity_3 formed Cluster_3
+Codex [t=10]: Entity_4 echo=0.972
+Codex [t=10]: Entity_4 resonance=0.029
+Codex [t=10]: Entity_4 ruptured — echo diverged from law
+Codex [t=10]: Entity_4 joined Cluster_1
+Codex [t=10]: Recursion depth = 10
+Codex [t=10]: Curvature estimate = 0.034
+Codex [t=10]: Declared state = 1.001
+Codex [t=11]: Entity_0 echo=1.016
+Codex [t=11]: Entity_0 resonance=0.015
+Codex [t=11]: Entity_0 formed Cluster_0
+Codex [t=11]: Entity_1 echo=0.94
+Codex [t=11]: Entity_1 resonance=0.061
+Codex [t=11]: Entity_1 ruptured — echo diverged from law
+Codex [t=11]: Entity_1 formed Cluster_1
+Codex [t=11]: Entity_2 echo=1.073
+Codex [t=11]: Entity_2 resonance=0.072
+Codex [t=11]: Entity_2 ruptured — echo diverged from law
+Codex [t=11]: Entity_2 formed Cluster_2
+Codex [t=11]: Entity_3 echo=1.041
+Codex [t=11]: Entity_3 resonance=0.04
+Codex [t=11]: Entity_3 ruptured — echo diverged from law
+Codex [t=11]: Entity_3 formed Cluster_3
+Codex [t=11]: Entity_4 echo=0.964
+Codex [t=11]: Entity_4 resonance=0.037
+Codex [t=11]: Entity_4 ruptured — echo diverged from law
+Codex [t=11]: Entity_4 formed Cluster_4
+Codex [t=11]: Recursion depth = 11
+Codex [t=11]: Curvature estimate = 0.049
+Codex [t=11]: Declared state = 1.001
+
+• Recursive Feedback:
+Each entity’s echo at time `t` was a blend of its own echo at `t-1` and the average echo of its cluster, plus noise.
+• Resonance Calculation:
+Resonance = `abs(echo - 1.001)`
+Entity_1 consistently exceeded the rupture threshold (0.03), marking it as a persistent anomaly.
+• Cluster Dynamics:• Entity_0 formed Cluster_0 and remained stable.
+• Entities 2, 3, and 4 repeatedly joined Cluster_0.
+• Entity_1 formed its own cluster and ruptured in every recursion.
+
+• Curvature Estimate:• Started at 0.017
+• Dropped to 0.007 at t=5 and t=7
+• Rose again to 0.011 by t=11
+• Indicates a stable but breathing system—no runaway divergence.
+
+• Declared State:• Fixed at 1.001 throughout.
+• Served as the gravitational law anchoring the recursion.
