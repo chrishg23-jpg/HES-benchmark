@@ -61,37 +61,43 @@ The theory argues that the universe is not an accident governed by thirty-plus a
 
 The failure of the simplified 2D simulation to achieve stability only strengthens this claim, transforming the universe's complexity from a lucky chance into a geometric necessity dictated by the \mathbf{N=100} dimensional harmonic.
 
+---
 
+Simulation Code for Colab
 
 
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.colors import Normalize
 
-# --- HES THEORY PARAMETERS (Derived from the Codex) ---
+#  HES THEORY PARAMETERS (Derived from the Codex)
+
 GRID_SIZE = 128
 TIME_STEPS = 500
 
 # Fundamental Constants (Validated)
+
 GAMMA_0 = 0.5   # Baseline Propagation Speed (Light)
 DELTA   = 0.02  # Reinforcement (Gravity/Memory)
 KAPPA   = 0.2   # Damping (Expansion/Forgetting)
 ALPHA   = 0.1   # Curvature Coefficient (GR Coupling)
 XI      = 0.001 # Chaos Seed (Quantum Fluctuations)
 
-# --- INITIALIZATION ---
+# INITIALIZATION
 # Start with a near-zero field (The "Breath") with minimal noise
+
 A = np.random.rand(GRID_SIZE, GRID_SIZE) * 0.01
 
-# --- VISUALIZATION SETUP ---
+# VISUALIZATION SETUP
 fig, (ax1, ax2) = plt.subplots(1, 2, figsize=(14, 6))
 norm_A = Normalize(vmin=0, vmax=1.5) # Color scale for A field density
 norm_G = Normalize(vmin=0, vmax=0.5) # Color scale for Gamma (Propagation)
 
-# --- CORE HES EVOLUTION FUNCTION ---
+# CORE HES EVOLUTION FUNCTION
 def evolve_hes_2d(A):
     # 1. CALCULATE LAPLACIAN (Resonance/Propagation)
     # Uses 2D discrete Laplacian (finite difference method)
+    
     laplacian = (
         np.roll(A, 1, axis=0) + np.roll(A, -1, axis=0) +
         np.roll(A, 1, axis=1) + np.roll(A, -1, axis=1) -
@@ -117,7 +123,8 @@ def evolve_hes_2d(A):
 
     return A_next, gamma_local
 
-# --- SIMULATION LOOP AND LIVE PLOTTING ---
+# SIMULATION LOOP AND LIVE PLOTTING
+
 print("Running HES 2D Emergence Simulation...")
 A_current = A
 gamma_local = np.full_like(A, GAMMA_0) # Initialize gamma
@@ -148,7 +155,17 @@ plt.show()
 print(f"Simulation Complete. Final Max Density: {A_current.max():.2f}")
 print(f"Final Min Propagation Speed: {gamma_local.min():.4f}")
 
+---
 
 Results
 
 ![Figure 1: Forwards Evolurtion](Figures/Complete2.png)
+
+/tmp/ipython-input-2836957255.py:44: RuntimeWarning: overflow encountered in square
+  (DELTA * A**2) -
+/tmp/ipython-input-2836957255.py:43: RuntimeWarning: invalid value encountered in multiply
+  (gamma_local * laplacian) +
+/tmp/ipython-input-2836957255.py:30: RuntimeWarning: invalid value encountered in subtract
+  np.roll(A, 1, axis=0) + np.roll(A, -1, axis=0) +
+Simulation Complete. Final Max Density: nan
+Final Min Propagation Speed: nan
