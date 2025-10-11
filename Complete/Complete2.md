@@ -4,7 +4,7 @@ The HES Theory asserts that the cosmos is a \mathbf{3D} projection of a high-dim
 I. The Core Axiom: The Universal Evolution Rule
 The universe is the dimensionless field \mathbf{A}(x, y, z). Its dynamics are unified by the single, discrete evolution equation:
 
-![Figure 1: Forwards Evolurtion](Figures/Complet2a.png)
+![Figure 1: Forwards Evolurtion](Figures/Complete2a.png)
 
 II. The Derived Fundamentals and Quantization
 The entire theory's stability relies on the unique Dimensional Harmonic (\mathbf{N=100}), which survived the singularity filter on 2025-10-10.
