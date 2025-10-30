@@ -1,7 +1,7 @@
 # HES-benchmark
 Simulation of emergent spacetime curvature from entanglement entropy using the HES framework
 
-Audio from NotebookLM deepdive
+Audio from NotebookLM deepdive 
 
 ## 🎧 Guided Audio Tour
 
@@ -144,6 +144,7 @@ BOA0014.ipynb
 https://drive.google.com/file/d/1DH0V09w3yXpsGeGN4p6CG8NV5jltvO0P/view?usp=drivesdk
 
 
+
 Breath001.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Breath001.ipynb)
 
@@ -154,6 +155,44 @@ Chem001.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem001.ipynb)
 Chem002
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem002.ipynb)
+Chem002b.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem002b.ipynb)
+Chem003.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem003.ipynb)
+
+
+[' Complete2.ipynb
+
+• Completedata001.ipynb
+
+L Constant001.ipynb
+
+• Constant002.ipynb
+
+Chem004.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem004.ipynb)
+Chem005.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem005.ipynb)
+Chem006.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem006.ipynb)
+Chem007.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem007.ipynb)
+Chem008.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem008.ipynb)
+Chem009.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem009.ipynb)
+Chem010.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem010.ipynb)
+Chem011.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem011.ipynb)
+Chem011b.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem011b.ipynb)
+Chem012.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem012.ipynb)
+Chem013.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem013.ipynb)
+Chem014.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Chem014.ipynb)
 
 https://drive.google.com/file/d/1QyuJOdMPWtPIcmQ6Za9CmWqWEH8hYdYS/view?usp=drivesdk
 
