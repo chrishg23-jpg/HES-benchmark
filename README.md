@@ -198,7 +198,264 @@ Constant001.ipynb
 Constant002.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/Constant002.ipynb)
 
+Constant003.ipynb
+• Constant004.ipynb
+U Constant005.ipynb
+• Constant006.ipynb
 
+• Copy_of_HES_3D_Anime.ipynb
+• Copy_of_HSE_3DAnime3.ipynb
+
+• Copy_of_TimesArrowReversed...
+
+• Cosmo001.ipynb
+• Cosmo002.ipynb
+• Cosmo003.ipynb
+L Cosmo004.ipynb
+Cosmo005.ipynb
+• Cosmo006.ipynb
+
+U Curvature_Memory.ipynb
+
+U DarkMatter001.ipynb
+U DarkMatter002.ipynb
+U DarkMatter003.ipynb
+
+• Dimension001.ipynb
+• Dimension002.ipynb
+Dimension003.ipynb
+L Dimension004.ipynb
+• Dimension005.ipynb
+• Dimension006.ipynb
+• Dimension007.ipynb
+• Dimension008.ipynb
+• Dimension009.ipynb
+• Dimension010.ipynb
+• Dimension011.ipynb
+• Dimension012.ipynb
+• Dimension013.ipynb
+L Dimension014.ipynb
+
+• EmergentRegulator001.ipynb
+EmergentRegulator002.ipynb
+EmergentRegulator003.ipynb
+• EmergentRegulator004.ipynb
+EmergentRegulator005.ipynb
+EmergentRegulator006.ipynb
+EmergentRegulator007.ipynb
+
+Entangle001.ipynb
+U Entangle002.ipynb
+U Entangle003.ipynb
+U Entangle004.ipynb
+U Entangle005.ipynb
+U Entangle006.ipynb
+[' Entangle007.ipynb
+U Entangle008.ipynb
+L Entangle009.ipynb
+L Entangle010.ipynb
+U Entangle011.ipynb
+U Entangle012.ipynb
+U Entangle013.ipynb
+U Entangle014.ipynb
+U Entangle015.ipynb
+
+L Eucridmock.ipynb
+
+U Euraka001.ipynb
+D Eurika002.ipynb
+
+L GR001.ipynb
+GR002.ipynb
+• GR003.ipynb
+
+• HES001.md
+
+• HES2full.ipynb
+C HES2full10.ipynb
+C HES2full2.ipynb
+• HES2full3.ipynb
+HES2full4fal_at_200.ipynb
+D HES2full5check5_105.ipynb
+• HES2full6.ipynb
+• HES2full7.ipynb
+• HES2full8.ipynb
+• HES2full9.ipynb
+
+D HES3_001.ipynb
+• HES3_002.ipynb
+D HES3_003a.ipynb
+C HES3_004.ipynb
+
+HES3_006.ipynb
+
+• HES4_001.ipynb
+• HES4_002.ipynb
+
+D HES_3D.ipynb
+
+• HES_3DAnime4.ipynb
+D HES_3D_Ane2.ipynb
+
+CHES_Benchmark.ipynb
+
+D HES_Syetems002.ipynb
+U HES_Systems001.ipynb
+D HES_Systems003.ipynb
+O HES_Systems004.ipynb
+D HES_Systems005.ipynb
+D HES_Systems006.ipynb
+O HES_Systems007.ipynb
+D HES_Systems008.ipynb
+D HES_Systems009.ipynb
+I HES_Systems010.ipynb
+D HES_Systems011.ipynb
+D HES_Systems013.ipynb
+HES_Systems014.ipynb
+D HES_Systems015.ipynb
+D HES_Systems016.ipynb
+
+D HSE_3DAnime5.ipynb
+
+U Matter001.ipynb
+D Matter002.ipynb
+• Matter003.ipynb
+D Matter004.ipynb
+• Matter005.ipynb
+L Matter006.ipynb
+U Matter007.ipynb
+U Matter008.ipynb
+
+Neutrino001.ipynb
+L Neutrino002.ipynb
+• Neutrino003.ipynb
+Neutrino004.ipynb
+• Neutrino005.ipynb
+• Neutrino006.ipynb
+• Neutrino007.ipynb
+Neutrino008.ipynb
+U Neutrino009.ipynb
+U Neutrino010.ipynb
+U Neutrino011.ipynb
+U Neutrino012.ipynb
+Neutrino013.ipynb
+C Neutrino014.ipynb
+L Neutrino015.ipynb
+U NeutrinoTune001.ipynb
+U NeutrinoTune002.ipynb
+
+
+C Particles001.ipynb
+U Particles002.ipynb
+U Particles003.ipynb
+U Particles004.ipynb
+U Particles005.ipynb
+U Particles006.ipynb
+U Particles007.ipynb
+Particles008.ipynb
+U Particles009.ipynb
+U Particles010.ipynb
+C Particles011.ipynb
+U Particles012.ipynb
+U Particles013.ipynb
+U Particles014.ipynb
+U Particles015.ipynb
+L Particles016.ipynb
+C Particles017.ipynb
+U Particles018.ipynb
+
+
+U PerturbationHES001.ipynb
+[ PerturbationHES003.ipynb
+
+
+[ QFT001.ipynb
+• QFT002.ipynb
+[ QFTOO3.ipynb
+[ QFT004.ipynb
+C QFTO05.ipynb
+D QFT006.ipynb
+QFT006b.ipynb
+D QFT007.ipynb
+U QFT007c.ipynb
+U QFT007d.ipynb
+L QFT007e.ipynb
+[ QFT077b.ipynb
+
+• QG001.ipynb
+[ QG002.ipynb
+• QG003.ipynb
+[ QG004.ipynb
+• QG005.ipynb
+
+QHES_SystemsComplete.ipynb
+
+[ QTF007f.ipynb
+L QTF008.ipynb
+
+C RegulatorEvo001.ipynb
+• RegulatorEvo002.ipynb
+• RegulatorEvo003.ipynb
+
+O SIMULATION
+
+TEG001.ipynb
+O TEG002.ipynb
+• TEGO03.ipynb
+• TEG004.ipynb
+• TEG004b.ipynb
+TEG005.ipynb
+• TEG005b.ipynb
+• TEG006.ipynb
+• TEG007.ipynb
+• TEG008.ipynb
+• TEG009.ipynb
+• TEG009b.ipynb
+1 TEG009c.ipynb
+L TEG010.ipynb
+L TEGO11.ipynb
+• TEGO11b.ipynb
+O TEGO12.ipynb
+D TEG012b.ipynb
+U TEG012c.ipynb
+TEG012d.ipynb
+C TEG012e.ipynb
+• TEG012g.ipynb
+• TEG012h.ipynb
+• TEG013.ipynb
+• TEG014.ipynb
+• TEGO15.ipynb
+C TEG016.ipynb
+• TEG017.ipynb
+C TEG018.ipynb
+C TEG12f.ipynb
+
+U The1000test001.ipynb
+
+C TheDeepDive.ipynb
+
+• TimeA001.ipynb
+U TimeA002.ipynb
+[ TimeA003.ipynb
+• TimeA004.ipynb
+D TimeA005.ipynb
+U TimeA006.ipynb
+TimeA007.ipynb
+• TimeA008.ipynb
+• TimeA009.ipynb
+• TimeA011.ipynb
+• TimeA012.ipynb
+TimeA013.ipynb
+• TimeA014.ipynb
+C TimeA015.ipynb
+
+• TimesArrowReversed.ipynb
+L TimesArrowReversed002.ipynb
+• TimesArrowReversed003.ipynb
+
+Times_Arrow.ipynb
+
+• Untitled1.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chrishg23-jpg/HES-benchmark/blob/main/HSE_3DAnime5.ipynb)
 
