@@ -82,7 +82,6 @@ Theory Summary
 Repository Structure
 
 	•	/notebooks/: Colab files (.ipynb) for demos and sweeps.
-	◦	Core: HES_P0_Lite_v22.5.ipynb (full theory in one file).
 	◦	Genesis: QFT001.ipynb to QFT021b.ipynb.
 	◦	Forces: Forces001.ipynb to Force011.ipynb.
 	◦	Cosmology: Cosmo001.ipynb to Cosmo006.ipynb.
