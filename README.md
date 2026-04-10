@@ -1,4 +1,5 @@
-https://drive.google.com/file/d/15A9sZ6Dc_Y-6G37RXf0ic-OkVeRaTUtR/view?usp=drivesdk
+White Paper draught.
+https://drive.google.com/file/d/1Scq7Xdx_0wDSIzNmuNG6lQ6R6yVffMVO/view?usp=drivesdk
 
 images of simulation results
 https://drive.google.com/drive/folders/1HkVEK11KoTjtAGBJjKgb057FeaVZARVy
