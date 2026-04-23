@@ -1,6 +1,9 @@
 White Paper draught.
 https://drive.google.com/file/d/1Scq7Xdx_0wDSIzNmuNG6lQ6R6yVffMVO/view?usp=drivesdk
 
+Secondary White Paper regarding entanglement desity and time
+https://drive.google.com/file/d/1xjPsTpygHvV2G2AW_BAeV6IsLlgGWkxa/view?usp=drivesdk
+
 images of simulation results
 https://drive.google.com/drive/folders/1HkVEK11KoTjtAGBJjKgb057FeaVZARVy
 
