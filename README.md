@@ -1,3 +1,37 @@
+
+How to Read HES Theory
+
+HES is NOT a modification of General Relativity, nor a quantum‑gravity extension of it. It is a replacement ontology in which spacetime geometry is not fundamental but emerges from a deeper entropic substrate.
+
+
+Because of this, the mathematical structures used in HES should not be interpreted through the lens of GR
+
+• HES does not assume a metric
+• HES does not assume curvature as a primitive
+• HES does not treat divergences as unphysical
+• HES does not rely on renormalisation
+
+Instead, HES treats infinite gradients, infinite densities, and infinite compensatory responses as physically meaningful indicators of the underlying entropic balance.
+
+In HES, an “infinity” is not a breakdown — it is a boundary condition of reality itself.
+
+The mathematics in this paper therefore describes:
+
+• entropic flux
+• compensatory dynamics
+• holographic sequestration
+• emergent geometry
+
+…in that order.
+
+Only after these dynamics stabilise does something resembling GR appear as a macroscopic approximation.
+
+Readers should therefore interpret all equations in this paper as pre‑geometric, and all divergences as structural, not errors.
+
+HES is a theory where infinity is not avoided — it is the scaffolding of the universe.
+
+
+
 White Paper draught.
 https://drive.google.com/file/d/1Scq7Xdx_0wDSIzNmuNG6lQ6R6yVffMVO/view?usp=drivesdk
 
